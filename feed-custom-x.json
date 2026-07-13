@@ -1,70 +1,9 @@
 {
-  "generatedAt": "2026-07-13T06:05:38.112Z",
+  "generatedAt": "2026-07-13T07:00:29.384Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2076509472487579769",
-          "text": "Friend is willing to exchange 6 H100s for 3 World Cup Final tickets\n\nLmk",
-          "createdAt": "2026-07-13T03:30:12.000Z",
-          "url": "https://x.com/jayagup10/status/2076509472487579769",
-          "likes": 67,
-          "retweets": 1,
-          "replies": 12,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2076335400860438996",
-          "text": "“I find it ironic that the status quo is to then turn around and impose restrictive terms on distillation, and to reserve the right to learn from customer usage and interaction data” https://t.co/n8TtibEEt8",
-          "createdAt": "2026-07-12T15:58:30.000Z",
-          "url": "https://x.com/jayagup10/status/2076335400860438996",
-          "likes": 97,
-          "retweets": 6,
-          "replies": 9,
-          "isQuote": true,
-          "quotedTweetId": "2076323181154230284"
-        },
-        {
-          "id": "2076325356085354794",
-          "text": "Curious what percent of the total revenues here are Anthropic vs OpenAI. Rumors have been that OpenAI asks for infinitely more volume and Anthropic requests are very curated / targeted, but what scale? \n\nWhat’s Anthropic’s compositions of these vendors vs OpenAI? https://t.co/VbSxHlzMRl",
-          "createdAt": "2026-07-12T15:18:35.000Z",
-          "url": "https://x.com/jayagup10/status/2076325356085354794",
-          "likes": 73,
-          "retweets": 4,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2076124392711696455"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2076323181154230284",
-          "text": "https://t.co/xv6csf1SbV",
-          "createdAt": "2026-07-12T15:09:57.000Z",
-          "url": "https://x.com/satyanadella/status/2076323181154230284",
-          "likes": 9453,
-          "retweets": 1754,
-          "replies": 621,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
