@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-07-15T04:36:22.362Z",
+  "generatedAt": "2026-07-15T07:00:12.010Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2077063479232795024",
-          "text": "An important piece from Demis. We need more of this kind of thinking. A good reminder that the goal is a frontier ecosystem that promotes innovation and choice, while avoiding any one model drop that breaks the world! https://t.co/y9S2JQB3aD",
-          "createdAt": "2026-07-14T16:11:38.000Z",
-          "url": "https://x.com/satyanadella/status/2077063479232795024",
-          "likes": 3775,
-          "retweets": 384,
-          "replies": 162,
-          "isQuote": true,
-          "quotedTweetId": "2076957440109625718"
+          "id": "2077275672486228277",
+          "text": "AI and drug discovery is not zero-sum for many different reasons: \n\n1.) The problem is heterogeneous (modality × stage)\n2.) Pharma deliberately cross-validate and they want to cross-validate even more bc scores varying so much (redundancy is a feature)\n3.) Deep entanglement with one pharma actively repels that pharma's rivals (bye bye kingmaking)\n4.) Multiple deep partnerships are a good way to see which one they should buy!",
+          "createdAt": "2026-07-15T06:14:48.000Z",
+          "url": "https://x.com/jayagup10/status/2077275672486228277",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
