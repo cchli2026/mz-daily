@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-07-15T07:00:12.010Z",
+  "generatedAt": "2026-07-16T07:00:12.934Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2077275672486228277",
-          "text": "AI and drug discovery is not zero-sum for many different reasons: \n\n1.) The problem is heterogeneous (modality × stage)\n2.) Pharma deliberately cross-validate and they want to cross-validate even more bc scores varying so much (redundancy is a feature)\n3.) Deep entanglement with one pharma actively repels that pharma's rivals (bye bye kingmaking)\n4.) Multiple deep partnerships are a good way to see which one they should buy!",
-          "createdAt": "2026-07-15T06:14:48.000Z",
-          "url": "https://x.com/jayagup10/status/2077275672486228277",
-          "likes": 10,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
