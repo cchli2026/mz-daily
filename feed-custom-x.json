@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-07-16T07:00:12.934Z",
+  "generatedAt": "2026-07-17T07:00:10.974Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2077918389801238543",
+          "text": "Security context graph 👀 https://t.co/izW8Wgsrk1",
+          "createdAt": "2026-07-17T00:48:44.000Z",
+          "url": "https://x.com/jayagup10/status/2077918389801238543",
+          "likes": 25,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2077881193526387110"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
