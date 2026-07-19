@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-07-18T07:00:09.038Z",
+  "generatedAt": "2026-07-19T07:00:08.472Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2078178559697596818",
-          "text": "🎯🎯🎯 https://t.co/ZWsvFfx5bA",
-          "createdAt": "2026-07-17T18:02:33.000Z",
-          "url": "https://x.com/jayagup10/status/2078178559697596818",
-          "likes": 29,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2070492491372273757"
-        },
-        {
-          "id": "2078022183704785356",
-          "text": "“Most people treat anemia as the threshold to watch. But long before hemoglobin drops, low iron starves the enzymes your cells depend on: the ones your mitochondria use to make energy, synthesize DNA, build dopamine and other neurotransmitters, and power immune defense. That is why you can feel fatigue, brain fog, and worse endurance even with normal hemoglobin and an otherwise \"normal\" iron panel.”\n\nAs someone who’s lived most of my life with a ferritin of 7-15…. iron infusions are the way to go and can be incredibly life changing",
-          "createdAt": "2026-07-17T07:41:11.000Z",
-          "url": "https://x.com/jayagup10/status/2078022183704785356",
-          "likes": 29,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2074546259021680952"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
