@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:00:08.657Z",
+  "generatedAt": "2026-07-21T07:00:10.657Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,15 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2078899832614523009",
-          "text": "He knew https://t.co/jJl1nO1FkJ",
-          "createdAt": "2026-07-19T17:48:38.000Z",
-          "url": "https://x.com/jayagup10/status/2078899832614523009",
-          "likes": 87,
-          "retweets": 1,
-          "replies": 7,
-          "isQuote": true,
-          "quotedTweetId": "1588214574926290945"
+          "id": "2079438029647962315",
+          "text": "🤔 https://t.co/spH83sgjCf",
+          "createdAt": "2026-07-21T05:27:15.000Z",
+          "url": "https://x.com/jayagup10/status/2079438029647962315",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 3,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
