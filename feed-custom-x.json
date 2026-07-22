@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T07:00:10.657Z",
+  "generatedAt": "2026-07-22T07:00:09.429Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,51 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2079438029647962315",
-          "text": "🤔 https://t.co/spH83sgjCf",
-          "createdAt": "2026-07-21T05:27:15.000Z",
-          "url": "https://x.com/jayagup10/status/2079438029647962315",
-          "likes": 11,
+          "id": "2079601600814047476",
+          "text": "Will be live on MTS today about tokenmaxxing, open source models and value capture in AI! https://t.co/PkuT9oR45W",
+          "createdAt": "2026-07-21T16:17:13.000Z",
+          "url": "https://x.com/jayagup10/status/2079601600814047476",
+          "likes": 14,
+          "retweets": 3,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2079598468763398655"
+        },
+        {
+          "id": "2079590373312311615",
+          "text": "Congrats to the Skypilot team and thanks for letting us be part of another journey with the Databricks legends! https://t.co/yipg3SyHMQ",
+          "createdAt": "2026-07-21T15:32:36.000Z",
+          "url": "https://x.com/jayagup10/status/2079590373312311615",
+          "likes": 15,
           "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2079590031669580169"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2079602597565280691",
+          "text": "Really excited about our expanded partnership with @MistralAI, which is all about bringing customers more choice in how and where they deploy AI! https://t.co/IZPojqkUyV",
+          "createdAt": "2026-07-21T16:21:11.000Z",
+          "url": "https://x.com/satyanadella/status/2079602597565280691",
+          "likes": 488,
+          "retweets": 78,
+          "replies": 54,
+          "isQuote": true,
+          "quotedTweetId": "2079544838257881527"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 3
   }
 }
