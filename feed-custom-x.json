@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T07:00:11.322Z",
+  "generatedAt": "2026-07-24T07:00:08.990Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,13 +9,13 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2080184005916606806",
-          "text": "Hosting America’s First Distillation Summit:The best ideas, like the best whiskey, get better when you reduce them to what matters. \n\nJoin us for a half-day on the state of the art in model distillation followed by drinking some whiskey. \n\nSneakpeak of the agenda includes: \n\n- Is Distillation Enough? Architecture, RL, and the Ingredients Beyond Copying\n- The Mechanics of On-Policy Distillation\n- Adversarial Distillation, IP & National Security\n- Open-Weight vs. Closed Frontier Labs\n- Scaling to Agents & Long-Horizon Tasks\n- Self-distillation and self-improvement\n- Ethics of distillation \n\nExcited for researchers, government officials, founders, and executives to convene on this! \n\nDM for more information.",
-          "createdAt": "2026-07-23T06:51:29.000Z",
-          "url": "https://x.com/jayagup10/status/2080184005916606806",
-          "likes": 4,
-          "retweets": 1,
-          "replies": 0,
+          "id": "2080189298574586243",
+          "text": "Hosting America’s First Distillation Summit: With distillation fast becoming one of the most consequential and contested topics in AI, we are convening the best minds for a summit.\n\nSneakpeak of the agenda includes:\n\n- Is Distillation Enough? Architecture, RL, and the Ingredients Beyond Copying\n- The Mechanics of On-Policy Distillation\n- Adversarial Distillation, IP & National Security\n- Open-Weight vs. Closed Frontier Labs\n- Scaling to Agents & Long-Horizon Tasks\n- Self-distillation and self-improvement\n- Ethics of distillation\n\nExcited for researchers, government officials, founders, and executives to convene on this!\n\nOf course the best ideas, like the best whiskey, get better when you reduce them to what matters :) And yes, there will be whiskey",
+          "createdAt": "2026-07-23T07:12:31.000Z",
+          "url": "https://x.com/jayagup10/status/2080189298574586243",
+          "likes": 79,
+          "retweets": 8,
+          "replies": 18,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -28,13 +28,13 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2079994019355201802",
-          "text": "Looking forward to Ignite this Fall! Join me in San Francisco or online - Nov. 17. https://t.co/QhWVONPtE7 https://t.co/iwZxsD2r9m",
-          "createdAt": "2026-07-22T18:16:33.000Z",
-          "url": "https://x.com/satyanadella/status/2079994019355201802",
-          "likes": 554,
-          "retweets": 81,
-          "replies": 58,
+          "id": "2080329851127669104",
+          "text": "https://t.co/GUwbNABiw6",
+          "createdAt": "2026-07-23T16:31:01.000Z",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "likes": 2018,
+          "retweets": 305,
+          "replies": 181,
           "isQuote": false,
           "quotedTweetId": null
         }
