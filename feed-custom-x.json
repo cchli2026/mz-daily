@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T07:00:10.684Z",
+  "generatedAt": "2026-07-26T07:00:09.027Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,43 +9,13 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2080908225390825808",
-          "text": "At first, Claude Tag sounds useful: an AI inside Slack that can absorb context and make a company’s collective knowledge searchable. But it only works if employees are candid.\n\nAt the same time, Anthropic’s CEO is publicly warning of large-scale white-collar job displacement. Employees are effectively being asked to teach a system how they think while being told that systems like it may replace them.\n\nThis creates a double bind. Employees are going to hold back (private convos on non-capturable surfaces) which means Claude captures a \"sanitized\" version of a company. If they do not, Claude captures the reasoning behind decisions, exceptions and tradeoffs, the \"real IP of most organizations\". \n\nHowever, then the question becomes whether companies should gain \"productivity\" by weakening candor and moving their most distinctive knowledge into a vendor mediated memory layer they do not fully control.",
-          "createdAt": "2026-07-25T06:49:16.000Z",
-          "url": "https://x.com/jayagup10/status/2080908225390825808",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2080553577387589640",
-          "text": "Every infrastructure, security, and application company is launching a competitive model router and I believe everyone who has not should do so ASAP. \n\nModel routers do three things that hit Anthropic’s business model:\n\n1.) Divert high-volume, lower-complexity traffic;  most tokens in coding agents, enterprise workflows, chat interfaces, and SaaS tools are not frontier-level\n\n2.) Expose and amplify the cost gap - users stop defaulting to fable / claude for stuff\n\n3.) Accelerate open-weight improvement loops\n\nIf this became universal across ALL companies, Anthropic’s revenue mix would shift heavily toward the highest-complexity (and therefore lowest-volume) requests. \n\nPricing power and growth rates would come under sustained pressure. That is a serious threat to the high-margin, high-volume assumptions baked into its valuation and capital intensity.",
-          "createdAt": "2026-07-24T07:20:02.000Z",
-          "url": "https://x.com/jayagup10/status/2080553577387589640",
-          "likes": 119,
-          "retweets": 10,
-          "replies": 23,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2080646162483417097",
-          "text": "Open-weight models are essential to a healthy AI ecosystem. Together with others across our industry, we are outlining a path for open-weight models to strengthen American competitiveness and expand economic opportunity, while protecting national security. https://t.co/Tr0sAzAxTD https://t.co/opMwEbtpoq",
-          "createdAt": "2026-07-24T13:27:56.000Z",
-          "url": "https://x.com/satyanadella/status/2080646162483417097",
-          "likes": 14847,
-          "retweets": 1932,
-          "replies": 562,
+          "id": "2081095166845395120",
+          "text": "A completely reimagined form of p̶o̶d̶c̶a̶s̶t̶ coming to you soon by:\n\n@theanantpai and me",
+          "createdAt": "2026-07-25T19:12:07.000Z",
+          "url": "https://x.com/jayagup10/status/2081095166845395120",
+          "likes": 43,
+          "retweets": 1,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -53,7 +23,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
