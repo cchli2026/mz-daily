@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-07-26T07:00:09.027Z",
+  "generatedAt": "2026-07-27T07:00:09.472Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2081095166845395120",
-          "text": "A completely reimagined form of p̶o̶d̶c̶a̶s̶t̶ coming to you soon by:\n\n@theanantpai and me",
-          "createdAt": "2026-07-25T19:12:07.000Z",
-          "url": "https://x.com/jayagup10/status/2081095166845395120",
-          "likes": 43,
-          "retweets": 1,
-          "replies": 7,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
