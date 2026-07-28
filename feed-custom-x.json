@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-07-27T07:00:09.472Z",
+  "generatedAt": "2026-07-28T07:00:26.586Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2081779757562401098",
+          "text": "Learn more: https://t.co/ES9pRX5CCz",
+          "createdAt": "2026-07-27T16:32:26.000Z",
+          "url": "https://x.com/satyanadella/status/2081779757562401098",
+          "likes": 165,
+          "retweets": 25,
+          "replies": 16,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2081779755146482153",
+          "text": "Today, we are announcing a series of updates that give customers frontier-grade security at half the cost.\n\nMAI-Cyber-1-Flash is our first cybersecurity model, built ground up to find the most challenging vulnerabilities in complex code bases. When combined with MDASH, it delivers world-class performance at 50 percent of the cost of leading models.\n\nWe are bringing this capability to market through Project Perception, a complete agentic security offering grounded in real-world signals and security workflows. Teams of specialized agents work together to simulate attacks, detect and triage/investigate, and fix and remediate.\n\nThis is the benefit of building the harness, context/signals, and action space separate from one model family. By combining specialized models and data with the right agents, tools, security context, and harness, we can advance the frontier of cost to outcome.",
+          "createdAt": "2026-07-27T16:32:25.000Z",
+          "url": "https://x.com/satyanadella/status/2081779755146482153",
+          "likes": 4824,
+          "retweets": 494,
+          "replies": 215,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
