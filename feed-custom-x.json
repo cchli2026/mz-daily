@@ -1,9 +1,70 @@
 {
-  "generatedAt": "2026-07-28T07:02:44.288Z",
+  "generatedAt": "2026-07-29T07:00:09.814Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2082307234952888761",
+          "text": "It is easy to remember 2008 as a crisis of mortgage securities and failed banks.\n\nBut for most people, it meant foreclosure signs, unemployment lines, emptied retirement accounts, food banks, and years spent paying for risks. \n\nAnd, I am not sure that an  AI credit shock would not remain inside Silicon Valley either. It could reach construction workers building data centers, utilities expanding the grid, insurers holding the debt, pensioners holding the insurers, and towns that planned their future around the buildout.",
+          "createdAt": "2026-07-29T03:28:26.000Z",
+          "url": "https://x.com/jayagup10/status/2082307234952888761",
+          "likes": 42,
+          "retweets": 3,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2082301754872369331"
+        },
+        {
+          "id": "2082301754872369331",
+          "text": "AI’s 2008 Moment https://t.co/aqHxqDCOvM",
+          "createdAt": "2026-07-29T03:06:40.000Z",
+          "url": "https://x.com/jayagup10/status/2082301754872369331",
+          "likes": 47,
+          "retweets": 8,
+          "replies": 5,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2082282949886562689",
+          "text": "This is actually really funny.\n\n1.) Anthropic claims profound capability acceleration while selling models whose differences most customers can barely perceive. If Fable, Opus 4.8 and 4.7 feel effectively interchangeable, that looks less like an intelligence explosion and more like a rapidly commoditizing product.\n\n2.) Frontier researchers are confusing the automation of their own unusually automatable profession with the automation of the entire economy. Their work consists of code, papers and measurable digital experiments, exactly where AI is strongest. Pretraining and post-training teams watching their own jobs disappear is not proof that everyone else’s will.\n\n3.) Majority of businesses are not bottlenecked by intelligence (perhaps besides trading firms and most research jobs). Their moats are execution, distribution, customer relationships, trust, regulation, physical infrastructure and scarce assets. \n\n4.) The erosion of frontier labs’ technical moat may explain their sudden interest in slowing the frontier. Open and cheaper models keep catching up, while regulation could create the durable barrier that model performance has not: expensive compliance, controlled compute and government approval.",
+          "createdAt": "2026-07-29T01:51:56.000Z",
+          "url": "https://x.com/jayagup10/status/2082282949886562689",
+          "likes": 429,
+          "retweets": 34,
+          "replies": 48,
+          "isQuote": true,
+          "quotedTweetId": "2082228994653696371"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2082177964675133931",
+          "text": "A good read from Mark. Establishing a frontier ecosystem that empowers people and orgs everywhere is what we collectively need to build together. https://t.co/U8sYSc7Juv",
+          "createdAt": "2026-07-28T18:54:46.000Z",
+          "url": "https://x.com/satyanadella/status/2082177964675133931",
+          "likes": 4908,
+          "retweets": 317,
+          "replies": 239,
+          "isQuote": true,
+          "quotedTweetId": "2082160210399948869"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
