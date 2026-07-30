@@ -1,26 +1,7 @@
 {
-  "generatedAt": "2026-07-30T07:01:54.247Z",
+  "generatedAt": "2026-07-30T07:04:27.745Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2082697433453035555",
-          "text": "👀\n\nTomorrow https://t.co/sx3BwtMQKD",
-          "createdAt": "2026-07-30T05:18:57.000Z",
-          "url": "https://x.com/jayagup10/status/2082697433453035555",
-          "likes": 39,
-          "retweets": 2,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Satya Nadella",
@@ -28,35 +9,24 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2082640036949008570",
-          "text": "Some more detail on the ROIC Intelligence App I built yesterday and mentioned on today's earnings call.\n\nI took the PDF that Brian Nowak at Morgan Stanley put together for Hyperscale ROIC this week and used Copilot code (coming in our new superapp) with a single prompt + skill (/drill-me) to create the plan, then used autopilot in auto to create the full app (with history, lookups, scenarios, what-ifs, etc). And /rubber-duck to test.\n\nAnd the best part is that all the artifacts are in my enterprise environment. My app is in Copilot, my code is in GitHub Enterprise; all my data pipelines/lake/semantic models are in Fabric. And everything is under Agent 365 IT/Sec/FinOps control!\n\nSo this is not about Tokenmaxxing or vibe coding. Every step of the way the rails are engineered to create value, making everything a long-term reusable asset, with governance/security, and cost controls.\n\nThis is the full system to drive business value. Disclosures: This is all pulled from public sources, and for illustrative purposes only...not financial advice! :)\n\nHere is the app and architecture...",
-          "createdAt": "2026-07-30T01:30:53.000Z",
-          "url": "https://x.com/satyanadella/status/2082640036949008570",
-          "likes": 1852,
-          "retweets": 184,
-          "replies": 174,
+          "id": "2082601792538640465",
+          "text": "1/ We are building a new model system, where the harness, context, memory, and action space are separate from any one model family, thereby moving the frontier on the cost -to-outcome curve.\n\nAnd it’s not just about cost. It also has the added benefit of business continuity and resilience because every model is substitutable.\n\nThis is the system we are using in our products, with great results.\n\nAnd we are making it available for our customers via Foundry too. \n\nhttps://t.co/2WJnSgo0Qb",
+          "createdAt": "2026-07-29T22:58:54.000Z",
+          "url": "https://x.com/satyanadella/status/2082601792538640465",
+          "likes": 880,
+          "retweets": 68,
+          "replies": 33,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2082601795403342120",
-          "text": "3/ A big Thank you to our employees and to our customers for continuing to put their trust in us.\n\nRead more here: https://t.co/8n8u2bSbIL",
-          "createdAt": "2026-07-29T22:58:55.000Z",
-          "url": "https://x.com/satyanadella/status/2082601795403342120",
-          "likes": 576,
-          "retweets": 10,
-          "replies": 29,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2082601794069565500",
-          "text": "2/ When it comes to Copilot, we are innovating rapidly, from chat to Cowork to Autopilots.\n\nWe have also been super focused on improving the quality and performance of Copilot.\n\nOver the last three quarters, user satisfaction scores have doubled. And this quarter alone, we cut latency by 25 percent.\n\nCopilot usage intensity speaks for itself:\n\n· Number of conversations per user nearly doubled Y/Y\n· Average weekly engagement on par with Outlook and Teams\n· Number of customers with over 50K seats up 7X Y/Y\n· Customers deploying Copilot to majority of information workers, up nearly 75% QoQ\n\nAnd this quarter we will bring all our Copilot experiences together in one “super app” spanning both our consumer and commercial experiences.\n\nI’m greatly looking forward to this!",
-          "createdAt": "2026-07-29T22:58:55.000Z",
-          "url": "https://x.com/satyanadella/status/2082601794069565500",
-          "likes": 779,
-          "retweets": 37,
-          "replies": 27,
+          "id": "2082601790768599074",
+          "text": "Just wrapped our earnings call.\n\nIt was a very strong close to what was a record fiscal year for Microsoft.\n\n· Annual revenue: $331B, +18%\n· MS Cloud: $214B, + 27%\n· And Azure: $100B, +41%\n\nAnd even bigger opportunity ahead!\n\nI wanted to share some more perspective on two areas of focus for us:",
+          "createdAt": "2026-07-29T22:58:54.000Z",
+          "url": "https://x.com/satyanadella/status/2082601790768599074",
+          "likes": 11021,
+          "retweets": 714,
+          "replies": 446,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -64,7 +34,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
