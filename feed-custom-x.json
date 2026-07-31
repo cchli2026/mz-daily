@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-07-30T07:04:27.745Z",
+  "generatedAt": "2026-07-31T07:00:14.665Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2082601792538640465",
-          "text": "1/ We are building a new model system, where the harness, context, memory, and action space are separate from any one model family, thereby moving the frontier on the cost -to-outcome curve.\n\nAnd it’s not just about cost. It also has the added benefit of business continuity and resilience because every model is substitutable.\n\nThis is the system we are using in our products, with great results.\n\nAnd we are making it available for our customers via Foundry too. \n\nhttps://t.co/2WJnSgo0Qb",
-          "createdAt": "2026-07-29T22:58:54.000Z",
-          "url": "https://x.com/satyanadella/status/2082601792538640465",
-          "likes": 880,
-          "retweets": 68,
-          "replies": 33,
+          "id": "2082863202119848289",
+          "text": "Link here: https://t.co/4PXAI5D8uQ",
+          "createdAt": "2026-07-30T16:17:39.000Z",
+          "url": "https://x.com/jayagup10/status/2082863202119848289",
+          "likes": 9,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2082601790768599074",
-          "text": "Just wrapped our earnings call.\n\nIt was a very strong close to what was a record fiscal year for Microsoft.\n\n· Annual revenue: $331B, +18%\n· MS Cloud: $214B, + 27%\n· And Azure: $100B, +41%\n\nAnd even bigger opportunity ahead!\n\nI wanted to share some more perspective on two areas of focus for us:",
-          "createdAt": "2026-07-29T22:58:54.000Z",
-          "url": "https://x.com/satyanadella/status/2082601790768599074",
-          "likes": 11021,
-          "retweets": 714,
-          "replies": 446,
+          "id": "2082846420709564478",
+          "text": "RSI may be the next genious marketing word after AGI. Think about what RSI makes investors want to believe:\n\n1.) Research labor will stop being the bottleneck. Frontier researchers are scarce, \"slow\", and expensive. If models can replace much of their work, a lab supposedly gets thousands of AI researchers operating continuously.\n\n2.) It turns spending into compound interest. Normal infrastructure has relatively linear returns: buy twice as many machines, receive approximately twice as much capacity. This makes you think instead: each dollar of compute allegedly increases the productivity of future compute \n\n3.) The scaling plateau has an escape hatch. Even if brute-force pretraining is flattening, automated AI research will discover new architectures, data strategies and training methods that restart the curve.\n\n4.) It turns the absence of a moat into an invisible moat. If Anthropic’s newest models are already accelerating Anthropic’s research, then outside observers cannot judge the company merely by its public products. This transforms an imperceptible customer improvement into a supposedly enormous internal strategic advantage that people cannot independently verify.\n\n5.) The winner will pull away suddenly. RSI supports a winner-take-most story. Once one lab closes the loop first, it supposedly improves faster than everyone else and becomes impossible to catch. This creates a sense of urgency to invest now!\n\nIf RSI were real, we would already see the opposite of model commoditization. Customers would perceive widening differences between models rather than struggling to distinguish Fable from Opus 4.8 or 4.7. \n\nRSI is structurally unfalsifiable and therefore functions as a financing instrument regardless of truth. If models improve quickly, RSI is working. If models improve slowly and RSI has not kicked in yet, so keep funding\n\nAgain, brilliant word",
+          "createdAt": "2026-07-30T15:10:58.000Z",
+          "url": "https://x.com/jayagup10/status/2082846420709564478",
+          "likes": 161,
+          "retweets": 9,
+          "replies": 26,
           "isQuote": false,
           "quotedTweetId": null
         }
