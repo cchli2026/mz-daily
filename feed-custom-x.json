@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-08-01T07:00:10.497Z",
+  "generatedAt": "2026-08-02T07:00:10.351Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2083214608773382413",
-          "text": "Pricing in AI.... is variable. AI-native companies are rapidly changing thier pricing models every 3-6 months. In 2022, pricing models didn't vary that much. Now, we see companies charging at the closest auditable proxy to value where the core definition of value continously changes. What have you tried? \n\nPer human seat \nEnterprise-wide license\nPer deployed AI agent / digital worker\nPer token  per GPU-second / minute / hour\nFlat per-production-model VPC license\nPrepaid commit-and-burn-down compute\nPer generated character   \nPer generated audio minute\nPer voice-call minute \nPer message or agent action\nPer customer session / conversation\nPer completed multi-step workflow\nPer domain or asset tested \nPer successful resolution\nBespoke business outcome\nPercentage of recovered value / success fee\nCredits spanning heterogeneous actions\nFixed  platform fee + variable meter\nSubscription allowance + overage\nAnnual  minimum + outcome kicker\nPremium content / data bundle\nImplementation  / custom-development fee\nVolume tiers and negotiated enterprise discounts\nRisk-adjusted active agent hour\nConcurrent channel or agent capacity \nPer search, page or enrichment record\nSponsored   attention / advertising\nMilestones, royalties and strategic license\nRecurring managed operations / FDE",
-          "createdAt": "2026-07-31T15:34:01.000Z",
-          "url": "https://x.com/jayagup10/status/2083214608773382413",
-          "likes": 66,
-          "retweets": 0,
-          "replies": 13,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2083194628140925205",
-          "text": "Congrats to @anyscalecompute &amp; @robertnishihara on the Anyscale acqusition for 1.65B!!!! https://t.co/5eFKTC2u7C",
-          "createdAt": "2026-07-31T14:14:37.000Z",
-          "url": "https://x.com/jayagup10/status/2083194628140925205",
-          "likes": 43,
-          "retweets": 3,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2083192206454636872"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
