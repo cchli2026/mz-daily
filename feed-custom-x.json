@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-08-05T07:00:10.251Z",
+  "generatedAt": "2026-08-06T07:00:09.754Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2085188056966160635",
+          "text": "👀👀 https://t.co/8Rfmj9Nexd",
+          "createdAt": "2026-08-06T02:15:48.000Z",
+          "url": "https://x.com/jayagup10/status/2085188056966160635",
+          "likes": 8,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2085101781428695391"
+        },
+        {
+          "id": "2085055311929565203",
+          "text": "35x revenue growth in 9 months… with &lt; 8M raised. \n\nCongrats to the Maximor team. https://t.co/PgeudsRY6W",
+          "createdAt": "2026-08-05T17:28:19.000Z",
+          "url": "https://x.com/jayagup10/status/2085055311929565203",
+          "likes": 60,
+          "retweets": 4,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2085053041074450498"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
