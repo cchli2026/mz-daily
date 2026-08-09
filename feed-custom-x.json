@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-08-08T07:00:13.870Z",
+  "generatedAt": "2026-08-09T07:00:18.486Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2086243573771706452",
+          "text": "Very underrated launch and surprised this didn’t get more attention https://t.co/l1v60R7g5d",
+          "createdAt": "2026-08-09T00:10:03.000Z",
+          "url": "https://x.com/jayagup10/status/2086243573771706452",
+          "likes": 97,
+          "retweets": 0,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2085495826638672109"
+        },
+        {
+          "id": "2086137867726930037",
+          "text": "Great panel with the MIT media lab alongside Arvind Jain (@jainarvind), Phil Mui (Salesforce) and other on the multi model future and importance of ~context~ &gt; intelligence! https://t.co/jEzaiq07YQ",
+          "createdAt": "2026-08-08T17:10:00.000Z",
+          "url": "https://x.com/jayagup10/status/2086137867726930037",
+          "likes": 32,
+          "retweets": 2,
+          "replies": 1,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
