@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-10T07:00:11.260Z",
+  "generatedAt": "2026-08-11T07:00:19.537Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2087005440748253453",
+          "text": "Yet another value prop for every application company that isn’t using Claude https://t.co/oec4jFe7b9",
+          "createdAt": "2026-08-11T02:37:26.000Z",
+          "url": "https://x.com/jayagup10/status/2087005440748253453",
+          "likes": 50,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2086922991921664307"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
