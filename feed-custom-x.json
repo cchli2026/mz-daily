@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:00:19.537Z",
+  "generatedAt": "2026-08-12T07:00:10.631Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2087005440748253453",
-          "text": "Yet another value prop for every application company that isn’t using Claude https://t.co/oec4jFe7b9",
-          "createdAt": "2026-08-11T02:37:26.000Z",
-          "url": "https://x.com/jayagup10/status/2087005440748253453",
-          "likes": 50,
-          "retweets": 1,
-          "replies": 2,
+          "id": "2087335655374467523",
+          "text": "A few quick things I've seen:\n\n1.) I've found many \"valedictorians\" that are not actually valedictorians if you go to Youtube and check who did the speech that year\n\n2.) seen a rise in the number of math olympiad medalists that never participated, also easy to check\n\n3.) people citing research they worked on but main author has never heard of that individual\n\n4.) founders that are dating but don't disclose\n\nClaude or ChatGPT may summarize that they have certain accomplishments but there is still some alpha in checking primary sources (if u care to do diligence)",
+          "createdAt": "2026-08-12T00:29:35.000Z",
+          "url": "https://x.com/jayagup10/status/2087335655374467523",
+          "likes": 390,
+          "retweets": 9,
+          "replies": 39,
           "isQuote": true,
-          "quotedTweetId": "2086922991921664307"
+          "quotedTweetId": "2086975105079644402"
+        },
+        {
+          "id": "2087226124917186756",
+          "text": "https://t.co/qXOk3dSaeB\n\n🤷 https://t.co/IXrmjUIGAA",
+          "createdAt": "2026-08-11T17:14:21.000Z",
+          "url": "https://x.com/jayagup10/status/2087226124917186756",
+          "likes": 27,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2086983723913023836"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
