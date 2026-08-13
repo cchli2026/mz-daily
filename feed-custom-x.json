@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T07:00:10.631Z",
+  "generatedAt": "2026-08-13T07:00:16.139Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,43 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2087335655374467523",
-          "text": "A few quick things I've seen:\n\n1.) I've found many \"valedictorians\" that are not actually valedictorians if you go to Youtube and check who did the speech that year\n\n2.) seen a rise in the number of math olympiad medalists that never participated, also easy to check\n\n3.) people citing research they worked on but main author has never heard of that individual\n\n4.) founders that are dating but don't disclose\n\nClaude or ChatGPT may summarize that they have certain accomplishments but there is still some alpha in checking primary sources (if u care to do diligence)",
-          "createdAt": "2026-08-12T00:29:35.000Z",
-          "url": "https://x.com/jayagup10/status/2087335655374467523",
-          "likes": 390,
-          "retweets": 9,
-          "replies": 39,
+          "id": "2087792576237899895",
+          "text": "Grok Bot nailed the personal \"context graph.\"\n\nThis is an absolutely incredible product that will unlock the latent demand of millions of users that barely use AI every week. \n\nIn what felt like a jaw dropping customer experience, the Cursor team clearly nailed the minimalist interface enough for \"normies\"  while keeping the quality and bar for \"day to day EA / Chief of Staff / COO\" like tasks. The craft shines through in the way the product is designed.\n\nClearly, this team will nail the proactive angle everyone's been waiting for: learning your workflows, patterns, and preferences over time, then suggesting or spinning up relevant tasks and routines based on what it knows about you. \n\nIf you haven't tried it, I highly recommend it, especially for people who don't use AI every second of the day.",
+          "createdAt": "2026-08-13T06:45:14.000Z",
+          "url": "https://x.com/jayagup10/status/2087792576237899895",
+          "likes": 7,
+          "retweets": 0,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2086975105079644402"
+          "quotedTweetId": "2087224798078517251"
         },
         {
-          "id": "2087226124917186756",
-          "text": "https://t.co/qXOk3dSaeB\n\n🤷 https://t.co/IXrmjUIGAA",
-          "createdAt": "2026-08-11T17:14:21.000Z",
-          "url": "https://x.com/jayagup10/status/2087226124917186756",
-          "likes": 27,
-          "retweets": 1,
-          "replies": 4,
+          "id": "2087775647255208357",
+          "text": "A few more people sent over in DM:\n\n1.) a few researchers that claim they turned down offers at OpenAI and Anthropic to start the company but are not in the ATS at either company \n\n2.) Claims that certain companies are using the research / product but nobody is using \n\n3.) Adding someone to team as cofounder that is not actually a cofounder to increase round / val",
+          "createdAt": "2026-08-13T05:37:57.000Z",
+          "url": "https://x.com/jayagup10/status/2087775647255208357",
+          "likes": 49,
+          "retweets": 0,
+          "replies": 7,
           "isQuote": true,
-          "quotedTweetId": "2086983723913023836"
+          "quotedTweetId": "2087335655374467523"
+        },
+        {
+          "id": "2087444327668859367",
+          "text": "1800 people coming.... Promise to have some good takes for you all\n\nCome thru and make it 2000! https://t.co/zWnQqTKUhq",
+          "createdAt": "2026-08-12T07:41:25.000Z",
+          "url": "https://x.com/jayagup10/status/2087444327668859367",
+          "likes": 30,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2087205399426424977"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 3
   }
 }
