@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:00:10.734Z",
+  "generatedAt": "2026-08-15T07:00:10.491Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,26 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2088106738373513543",
-          "text": "Thank you @grinich for a fun panel!\n\nWorkOS is sneaky interesting (esp the entire journey) https://t.co/RYFrdrwSxK",
-          "createdAt": "2026-08-14T03:33:36.000Z",
-          "url": "https://x.com/jayagup10/status/2088106738373513543",
-          "likes": 9,
+          "id": "2088518587032195457",
+          "text": "“Once you have that enterprise context graph, an AI agent like Genie becomes magical”\n\nOk slay https://t.co/iIB8ABGT0o",
+          "createdAt": "2026-08-15T06:50:08.000Z",
+          "url": "https://x.com/jayagup10/status/2088518587032195457",
+          "likes": 1,
           "retweets": 0,
-          "replies": 1,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2088066949423255890"
+          "quotedTweetId": "2088027097327673735"
         },
         {
-          "id": "2087959124457951232",
-          "text": "Massive congrats to the @arizeai team on a ~915M acquisition. Foundation Capital was lucky to be the seed investor shoutout to @ashugarg on another acquisition this year!\n\nThanks for letting me come along for the Arize journey - will miss the best board meetings with @aparnadhinak and @jason_lopatecki :)",
-          "createdAt": "2026-08-13T17:47:02.000Z",
-          "url": "https://x.com/jayagup10/status/2087959124457951232",
-          "likes": 64,
-          "retweets": 4,
-          "replies": 3,
+          "id": "2088329282057851173",
+          "text": "I don't think it's either / or and very use case dependent. Post-training does make sense when some conditions coincide: \n\n1.) The workflow is stable and repeated at high volume.\n2.) Existing systems have a measurable cost, latency, or performance gap.\n3.) The company possesses unique, high-quality supervision or outcome data.\n4) The failure modes are learnable.\n5.) The savings or product improvement exceed the full cost of training, serving, monitoring, and retraining.\n6.) Owning the model materially improves deployment control or product defensibility\n\nFor high-volume AI-native companies with unique outcome data and stable workflows, post-training may create significant economic or strategic value especially as margins come into question",
+          "createdAt": "2026-08-14T18:17:54.000Z",
+          "url": "https://x.com/jayagup10/status/2088329282057851173",
+          "likes": 51,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2087956528670167065"
+          "quotedTweetId": "2087635417751548066"
         }
       ]
     }
