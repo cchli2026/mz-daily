@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-08-15T07:00:10.491Z",
+  "generatedAt": "2026-08-16T07:00:09.944Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2088518587032195457",
-          "text": "“Once you have that enterprise context graph, an AI agent like Genie becomes magical”\n\nOk slay https://t.co/iIB8ABGT0o",
-          "createdAt": "2026-08-15T06:50:08.000Z",
-          "url": "https://x.com/jayagup10/status/2088518587032195457",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2088027097327673735"
-        },
-        {
-          "id": "2088329282057851173",
-          "text": "I don't think it's either / or and very use case dependent. Post-training does make sense when some conditions coincide: \n\n1.) The workflow is stable and repeated at high volume.\n2.) Existing systems have a measurable cost, latency, or performance gap.\n3.) The company possesses unique, high-quality supervision or outcome data.\n4) The failure modes are learnable.\n5.) The savings or product improvement exceed the full cost of training, serving, monitoring, and retraining.\n6.) Owning the model materially improves deployment control or product defensibility\n\nFor high-volume AI-native companies with unique outcome data and stable workflows, post-training may create significant economic or strategic value especially as margins come into question",
-          "createdAt": "2026-08-14T18:17:54.000Z",
-          "url": "https://x.com/jayagup10/status/2088329282057851173",
-          "likes": 51,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2087635417751548066"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
