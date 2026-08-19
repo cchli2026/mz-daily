@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:00:10.285Z",
+  "generatedAt": "2026-08-19T07:00:11.618Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,43 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2089256336731373875",
-          "text": "Fable 5 makes 0 sense for 99.9% of enterprises. \n\n1.) It’s reaching a point where I’m dreading reading the outputs it generates.” The jargon and detours feel like a mathematician using non-standard notation that confuses people whose expertise doesn’t match the model’s. \n\n2.) It has so much Claude-Speak. There are hermetically dense sentences, invented compound terms, metaphors that prioritize the model’s internal shorthand over human readability. People are piping the Fable outputs into Haiku just to translate it into plain English.\n\n3.) Repeated reports of “first model that made me feel stupid,” “I can’t keep up,” “goes over my head,” and “intelligence delta” comparisons (high-IQ specialist talking past a normal person). Even strong engineers and researchers describe the writing as exhausting or unreadable. It is simply not accessible for people\n\n4.) When Fable 5’s outputs require extra mental effort just to decode, you end up working harder to understand the AI than you would have spent solving the problem yourself.\n\n5.) These problems compound in real workflows: in multi-agent setups, long sessions, or handoffs, the private shorthand and dense style mess up the outcomes. It makes the entire system / skill harder to supervise, debug, or trust.",
-          "createdAt": "2026-08-17T07:41:41.000Z",
-          "url": "https://x.com/jayagup10/status/2089256336731373875",
-          "likes": 197,
-          "retweets": 9,
-          "replies": 36,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2089968839585149210",
+          "text": "Imagine replacing every employee at American Airlines, Home Depot or Medtronic with a math olympiad who approached every task as a problem of discovery. Costs would not fall, but would rise rapidly and dramatically as every routine decision would be re-examined from first principles. The organization would drown in intelligence it cannot productively use or absorb",
+          "createdAt": "2026-08-19T06:52:55.000Z",
+          "url": "https://x.com/jayagup10/status/2089968839585149210",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2089924561441841152"
+        },
+        {
+          "id": "2089968015303721328",
+          "text": "Actually instinct + Grokbot = no more Claude (except for extremely intense research) https://t.co/hO3d3xtOkP",
+          "createdAt": "2026-08-19T06:49:39.000Z",
+          "url": "https://x.com/jayagup10/status/2089968015303721328",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2089621974041673793"
+        },
+        {
+          "id": "2089948471415771274",
+          "text": "Progress will not be measured by how much intelligence a company can afford to consume, but by how quickly intelligence consumed per successful outcome falls toward zero https://t.co/RPc19BPSs0",
+          "createdAt": "2026-08-19T05:31:59.000Z",
+          "url": "https://x.com/jayagup10/status/2089948471415771274",
+          "likes": 16,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2089924561441841152"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 3
   }
 }
