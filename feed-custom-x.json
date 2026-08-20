@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-08-19T07:00:11.618Z",
+  "generatedAt": "2026-08-20T07:00:10.861Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2089968839585149210",
-          "text": "Imagine replacing every employee at American Airlines, Home Depot or Medtronic with a math olympiad who approached every task as a problem of discovery. Costs would not fall, but would rise rapidly and dramatically as every routine decision would be re-examined from first principles. The organization would drown in intelligence it cannot productively use or absorb",
-          "createdAt": "2026-08-19T06:52:55.000Z",
-          "url": "https://x.com/jayagup10/status/2089968839585149210",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2089924561441841152"
-        },
-        {
-          "id": "2089968015303721328",
-          "text": "Actually instinct + Grokbot = no more Claude (except for extremely intense research) https://t.co/hO3d3xtOkP",
-          "createdAt": "2026-08-19T06:49:39.000Z",
-          "url": "https://x.com/jayagup10/status/2089968015303721328",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2089621974041673793"
-        },
-        {
-          "id": "2089948471415771274",
-          "text": "Progress will not be measured by how much intelligence a company can afford to consume, but by how quickly intelligence consumed per successful outcome falls toward zero https://t.co/RPc19BPSs0",
-          "createdAt": "2026-08-19T05:31:59.000Z",
-          "url": "https://x.com/jayagup10/status/2089948471415771274",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2089924561441841152"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
