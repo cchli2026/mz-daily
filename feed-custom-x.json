@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-20T07:00:10.861Z",
+  "generatedAt": "2026-08-21T07:00:11.478Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2090468169165242702",
+          "text": "I imagine a lot of executives who have had trouble adapting and using interfaces like CoWork will find something like GrokBot much easier to use \n\nNo more trying to explain them how to set up a skill 🤩 https://t.co/XNAuOCgIxU",
+          "createdAt": "2026-08-20T15:57:05.000Z",
+          "url": "https://x.com/jayagup10/status/2090468169165242702",
+          "likes": 31,
+          "retweets": 1,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2090460185898762471"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
