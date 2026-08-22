@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T07:00:11.478Z",
+  "generatedAt": "2026-08-22T07:00:12.909Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,40 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2090468169165242702",
-          "text": "I imagine a lot of executives who have had trouble adapting and using interfaces like CoWork will find something like GrokBot much easier to use \n\nNo more trying to explain them how to set up a skill 🤩 https://t.co/XNAuOCgIxU",
-          "createdAt": "2026-08-20T15:57:05.000Z",
-          "url": "https://x.com/jayagup10/status/2090468169165242702",
-          "likes": 31,
+          "id": "2090946140988690865",
+          "text": "Very smart move before Anthropic IPO\n\nCould also just open source some of the older models as well to cook em while their revenues catch up https://t.co/TRf4JxqNQT",
+          "createdAt": "2026-08-21T23:36:22.000Z",
+          "url": "https://x.com/jayagup10/status/2090946140988690865",
+          "likes": 56,
           "retweets": 1,
           "replies": 4,
           "isQuote": true,
-          "quotedTweetId": "2090460185898762471"
+          "quotedTweetId": "2090885187634905500"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2090929770779521310",
+          "text": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter teams for all the incredible work that brought us to this milestone! https://t.co/pBqKArGO1N",
+          "createdAt": "2026-08-21T22:31:19.000Z",
+          "url": "https://x.com/satyanadella/status/2090929770779521310",
+          "likes": 4387,
+          "retweets": 368,
+          "replies": 203,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }
