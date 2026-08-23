@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T07:00:12.909Z",
+  "generatedAt": "2026-08-23T07:00:10.145Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,40 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2090946140988690865",
-          "text": "Very smart move before Anthropic IPO\n\nCould also just open source some of the older models as well to cook em while their revenues catch up https://t.co/TRf4JxqNQT",
-          "createdAt": "2026-08-21T23:36:22.000Z",
-          "url": "https://x.com/jayagup10/status/2090946140988690865",
-          "likes": 56,
-          "retweets": 1,
+          "id": "2091329079450702139",
+          "text": "Fiduciary duty may not require directors to choose open-weight models, but it should make it increasingly uncomfortable for them to approve material proprietary-model spending without knowing whether open alternatives can perform the same work for less.\n\nNow that credible open-weight alternatives offer material savings, greater data control or reduced vendor concentration, that process should normally include comparative benchmarking and total-cost analysis. \n\nAs AI spend becomes material and credible alternatives offer potentially order-of-magnitude savings or materially different security and dependency risks, the duty-of-care expectation of an informed process increasingly supports a documented alternatives analysis.",
+          "createdAt": "2026-08-23T00:58:02.000Z",
+          "url": "https://x.com/jayagup10/status/2091329079450702139",
+          "likes": 39,
+          "retweets": 7,
           "replies": 4,
           "isQuote": true,
-          "quotedTweetId": "2090885187634905500"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2090929770779521310",
-          "text": "Delivery day at our Microsoft DCs as the first production Vera Rubins arrive. A huge thank you to our partners at @nvidia and our Azure hardware and datacenter teams for all the incredible work that brought us to this milestone! https://t.co/pBqKArGO1N",
-          "createdAt": "2026-08-21T22:31:19.000Z",
-          "url": "https://x.com/satyanadella/status/2090929770779521310",
-          "likes": 4387,
-          "retweets": 368,
-          "replies": 203,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2091234105702887879"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
