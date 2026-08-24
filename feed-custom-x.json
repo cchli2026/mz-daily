@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T07:00:10.145Z",
+  "generatedAt": "2026-08-24T07:00:11.522Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2091329079450702139",
-          "text": "Fiduciary duty may not require directors to choose open-weight models, but it should make it increasingly uncomfortable for them to approve material proprietary-model spending without knowing whether open alternatives can perform the same work for less.\n\nNow that credible open-weight alternatives offer material savings, greater data control or reduced vendor concentration, that process should normally include comparative benchmarking and total-cost analysis. \n\nAs AI spend becomes material and credible alternatives offer potentially order-of-magnitude savings or materially different security and dependency risks, the duty-of-care expectation of an informed process increasingly supports a documented alternatives analysis.",
-          "createdAt": "2026-08-23T00:58:02.000Z",
-          "url": "https://x.com/jayagup10/status/2091329079450702139",
-          "likes": 39,
-          "retweets": 7,
-          "replies": 4,
+          "id": "2091773132629774639",
+          "text": ":-) https://t.co/csNizpt08A https://t.co/8qckmp8VLt",
+          "createdAt": "2026-08-24T06:22:32.000Z",
+          "url": "https://x.com/jayagup10/status/2091773132629774639",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2091234105702887879"
+          "quotedTweetId": "2089924561441841152"
+        },
+        {
+          "id": "2091771322460451235",
+          "text": "Have you ever hired an employee that was dramatically overqualified for a role? They may reconsider settled decisions, introduce unnecessary complexity, become bored and eventually leave. \n\nThe organization would have been better served by someone sufficiently capable who understood its customers and how the work actually gets done. Models are overqualified too, with a more persistent failure mode. However, instead of getting bored and quitting, they keep generating extra complexity, variance and cost indefinitely. \n\nA password reset does not improve because an agent considers twelve explanations, launches a security investigation and composes a personalized essay.",
+          "createdAt": "2026-08-24T06:15:21.000Z",
+          "url": "https://x.com/jayagup10/status/2091771322460451235",
+          "likes": 13,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2089924561441841152"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
