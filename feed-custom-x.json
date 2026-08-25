@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T07:00:11.522Z",
+  "generatedAt": "2026-08-25T07:00:13.504Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2091773132629774639",
-          "text": ":-) https://t.co/csNizpt08A https://t.co/8qckmp8VLt",
-          "createdAt": "2026-08-24T06:22:32.000Z",
-          "url": "https://x.com/jayagup10/status/2091773132629774639",
-          "likes": 2,
+          "id": "2092126568927879359",
+          "text": "Remember when if a company said they were using AI in the earnings call the stock price went up\n\nI imagine a world where in the ~6 months, 50+ companies will say they are relying less on Claude / switching to open weight for that stock price boost https://t.co/vmXSEzprVO",
+          "createdAt": "2026-08-25T05:46:58.000Z",
+          "url": "https://x.com/jayagup10/status/2092126568927879359",
+          "likes": 24,
           "retweets": 0,
-          "replies": 0,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2089924561441841152"
-        },
-        {
-          "id": "2091771322460451235",
-          "text": "Have you ever hired an employee that was dramatically overqualified for a role? They may reconsider settled decisions, introduce unnecessary complexity, become bored and eventually leave. \n\nThe organization would have been better served by someone sufficiently capable who understood its customers and how the work actually gets done. Models are overqualified too, with a more persistent failure mode. However, instead of getting bored and quitting, they keep generating extra complexity, variance and cost indefinitely. \n\nA password reset does not improve because an agent considers twelve explanations, launches a security investigation and composes a personalized essay.",
-          "createdAt": "2026-08-24T06:15:21.000Z",
-          "url": "https://x.com/jayagup10/status/2091771322460451235",
-          "likes": 13,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2089924561441841152"
+          "quotedTweetId": "2091929539433890088"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
