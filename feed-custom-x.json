@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-08-26T07:00:11.467Z",
+  "generatedAt": "2026-08-27T07:00:10.585Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2092482079435133288",
-          "text": "Codex is for the North Indians and Claude is for the South Indians https://t.co/FSSM6ZHlsO",
-          "createdAt": "2026-08-26T05:19:38.000Z",
-          "url": "https://x.com/jayagup10/status/2092482079435133288",
-          "likes": 42,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2092322293808861363",
-          "text": "Alright it can’t go underrated this time\n\nThis unlocks, democratizes and productizes open weight for all enterprises within their existing harness https://t.co/uwZEKCdi9O",
-          "createdAt": "2026-08-25T18:44:42.000Z",
-          "url": "https://x.com/jayagup10/status/2092322293808861363",
-          "likes": 121,
-          "retweets": 3,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2092306877057319367"
-        },
-        {
-          "id": "2092272480434245964",
-          "text": "Hello local inference https://t.co/loBOcxnS1y",
-          "createdAt": "2026-08-25T15:26:46.000Z",
-          "url": "https://x.com/jayagup10/status/2092272480434245964",
-          "likes": 151,
-          "retweets": 2,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2092253780532486557"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
