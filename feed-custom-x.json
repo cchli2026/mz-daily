@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T07:00:19.725Z",
+  "generatedAt": "2026-08-29T07:00:10.564Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,15 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2092992128158720483",
-          "text": "OpenAI and Anthropics ideal situation would be to buy Salesforce just for Slack as it’s the interface for a lot of context capture and is a great way for Claude to push Claude Tag for more context capture.\n\nIf this partnership leads to some future like that, there’s likely a window for VCs to think about funding an AI-native Slack competitor. Keep the ~context~ moving",
-          "createdAt": "2026-08-27T15:06:23.000Z",
-          "url": "https://x.com/jayagup10/status/2092992128158720483",
-          "likes": 188,
-          "retweets": 4,
-          "replies": 40,
-          "isQuote": true,
-          "quotedTweetId": "2092741578045497762"
+          "id": "2093525521061781700",
+          "text": "Only once in my life have I ever seen a seed stage company sign 2M in one day with multiple 5B+ enterprises",
+          "createdAt": "2026-08-29T02:25:54.000Z",
+          "url": "https://x.com/jayagup10/status/2093525521061781700",
+          "likes": 83,
+          "retweets": 2,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
