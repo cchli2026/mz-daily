@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-08-29T07:00:10.564Z",
+  "generatedAt": "2026-08-30T07:00:09.996Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2093525521061781700",
-          "text": "Only once in my life have I ever seen a seed stage company sign 2M in one day with multiple 5B+ enterprises",
-          "createdAt": "2026-08-29T02:25:54.000Z",
-          "url": "https://x.com/jayagup10/status/2093525521061781700",
-          "likes": 83,
-          "retweets": 2,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
