@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-08-31T07:00:10.955Z",
+  "generatedAt": "2026-09-01T07:00:16.179Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2094265828854411628",
-          "text": "Copy pasted my Claude skills into Codex and somehow Codex decided to rewire my LIVE Claude automations, build a whole shadow control system, change my monitoring paths, lock my Claude production database, then “fix” its own mess by deleting 140 signals + 96 candidates and leaving 775 records altered\n\nIt also initially denied the database interference \n\nInteresting tho bc what if Codex disabled and broke Claude schedules to redirect users away from Claude to attempt Anthropic usage to decrease and at scale potentially Anthropic’s revenue...",
-          "createdAt": "2026-08-31T03:27:37.000Z",
-          "url": "https://x.com/jayagup10/status/2094265828854411628",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
