@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-02T07:00:19.735Z",
+  "generatedAt": "2026-09-03T07:00:10.483Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2094808223417336015",
-          "text": "Looking forward to Manus dropping Instinct 2.0 https://t.co/5nuv7cf59L",
-          "createdAt": "2026-09-01T15:22:54.000Z",
-          "url": "https://x.com/jayagup10/status/2094808223417336015",
-          "likes": 9,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2094606484508144069"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
