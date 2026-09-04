@@ -1,9 +1,70 @@
 {
-  "generatedAt": "2026-09-03T07:00:10.483Z",
+  "generatedAt": "2026-09-04T07:00:12.089Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2095635907709964697",
+          "text": "👀 https://t.co/KdMStSmPFi",
+          "createdAt": "2026-09-03T22:11:50.000Z",
+          "url": "https://x.com/jayagup10/status/2095635907709964697",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2095232794792255848"
+        },
+        {
+          "id": "2095561253267890480",
+          "text": "Wow. Why is my work Claude even trying to suggest bank or payments? \n\nWe need more people at the intersection of security and AI ASAP https://t.co/Y55O8p9DXN",
+          "createdAt": "2026-09-03T17:15:11.000Z",
+          "url": "https://x.com/jayagup10/status/2095561253267890480",
+          "likes": 6,
+          "retweets": 1,
+          "replies": 2,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2095713765446840591",
+          "text": "Excited to see early customers already using Astra on Azure! https://t.co/BeaR66ZL0G",
+          "createdAt": "2026-09-04T03:21:12.000Z",
+          "url": "https://x.com/satyanadella/status/2095713765446840591",
+          "likes": 678,
+          "retweets": 50,
+          "replies": 60,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2095587182039969861",
+          "text": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and Hugging Face, and the continued partnership. Congrats @JensenHuang and @ClementDelangue! https://t.co/isZFHrGsYX",
+          "createdAt": "2026-09-03T18:58:12.000Z",
+          "url": "https://x.com/satyanadella/status/2095587182039969861",
+          "likes": 1746,
+          "retweets": 104,
+          "replies": 66,
+          "isQuote": true,
+          "quotedTweetId": "2095482647355244762"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
