@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T07:00:12.089Z",
+  "generatedAt": "2026-09-05T07:00:11.199Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,15 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2095635907709964697",
-          "text": "👀 https://t.co/KdMStSmPFi",
-          "createdAt": "2026-09-03T22:11:50.000Z",
-          "url": "https://x.com/jayagup10/status/2095635907709964697",
-          "likes": 2,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2096047401178218505",
+          "text": "Wow meanwhile Instinct out here changing my passwords without asking https://t.co/mUtF6b3gwo https://t.co/LKBJQOevEA",
+          "createdAt": "2026-09-05T01:26:57.000Z",
+          "url": "https://x.com/jayagup10/status/2096047401178218505",
+          "likes": 103,
+          "retweets": 2,
+          "replies": 17,
           "isQuote": true,
-          "quotedTweetId": "2095232794792255848"
-        },
-        {
-          "id": "2095561253267890480",
-          "text": "Wow. Why is my work Claude even trying to suggest bank or payments? \n\nWe need more people at the intersection of security and AI ASAP https://t.co/Y55O8p9DXN",
-          "createdAt": "2026-09-03T17:15:11.000Z",
-          "url": "https://x.com/jayagup10/status/2095561253267890480",
-          "likes": 6,
-          "retweets": 1,
-          "replies": 2,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2095705075633000815"
         }
       ]
     },
@@ -39,32 +28,32 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2095713765446840591",
-          "text": "Excited to see early customers already using Astra on Azure! https://t.co/BeaR66ZL0G",
-          "createdAt": "2026-09-04T03:21:12.000Z",
-          "url": "https://x.com/satyanadella/status/2095713765446840591",
-          "likes": 678,
-          "retweets": 50,
-          "replies": 60,
+          "id": "2095912052472861085",
+          "text": "Try it out: https://t.co/g6KrxS0Xa3",
+          "createdAt": "2026-09-04T16:29:08.000Z",
+          "url": "https://x.com/satyanadella/status/2095912052472861085",
+          "likes": 54,
+          "retweets": 4,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2095587182039969861",
-          "text": "Looking forward to this ecosystem with open models continuing to flourish and grow with NVIDIA and Hugging Face, and the continued partnership. Congrats @JensenHuang and @ClementDelangue! https://t.co/isZFHrGsYX",
-          "createdAt": "2026-09-03T18:58:12.000Z",
-          "url": "https://x.com/satyanadella/status/2095587182039969861",
-          "likes": 1746,
-          "retweets": 104,
-          "replies": 66,
-          "isQuote": true,
-          "quotedTweetId": "2095482647355244762"
+          "id": "2095912050535059918",
+          "text": "Super excited about HydraFusion in GitHub Copilot, and what it shows about the shift from model selection to model orchestration.\n\nBy bringing together multiple models to plan, build, critique, and complete coding tasks, it can deliver outcomes at up to 67% lower cost.\n\nIt’s a great example of the value of a heterogeneous model ecosystem, and how we’re continuing to advance the cost-to-outcome frontier.",
+          "createdAt": "2026-09-04T16:29:07.000Z",
+          "url": "https://x.com/satyanadella/status/2095912050535059918",
+          "likes": 1100,
+          "retweets": 161,
+          "replies": 99,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 4
+    "totalTweets": 3
   }
 }
