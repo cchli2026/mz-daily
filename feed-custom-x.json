@@ -1,59 +1,9 @@
 {
-  "generatedAt": "2026-09-05T07:00:11.199Z",
+  "generatedAt": "2026-09-06T07:00:11.148Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2096047401178218505",
-          "text": "Wow meanwhile Instinct out here changing my passwords without asking https://t.co/mUtF6b3gwo https://t.co/LKBJQOevEA",
-          "createdAt": "2026-09-05T01:26:57.000Z",
-          "url": "https://x.com/jayagup10/status/2096047401178218505",
-          "likes": 103,
-          "retweets": 2,
-          "replies": 17,
-          "isQuote": true,
-          "quotedTweetId": "2095705075633000815"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2095912052472861085",
-          "text": "Try it out: https://t.co/g6KrxS0Xa3",
-          "createdAt": "2026-09-04T16:29:08.000Z",
-          "url": "https://x.com/satyanadella/status/2095912052472861085",
-          "likes": 54,
-          "retweets": 4,
-          "replies": 7,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2095912050535059918",
-          "text": "Super excited about HydraFusion in GitHub Copilot, and what it shows about the shift from model selection to model orchestration.\n\nBy bringing together multiple models to plan, build, critique, and complete coding tasks, it can deliver outcomes at up to 67% lower cost.\n\nIt’s a great example of the value of a heterogeneous model ecosystem, and how we’re continuing to advance the cost-to-outcome frontier.",
-          "createdAt": "2026-09-04T16:29:07.000Z",
-          "url": "https://x.com/satyanadella/status/2095912050535059918",
-          "likes": 1100,
-          "retweets": 161,
-          "replies": 99,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
