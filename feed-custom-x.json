@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-09-07T07:00:10.773Z",
+  "generatedAt": "2026-09-08T07:00:15.818Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2096633945869996050",
-          "text": "Learn more about Opal, the technology powering one of these new Autopilot experiences (in Frontier rings now and coming to Copilot soon): https://t.co/R2okoTepYA",
-          "createdAt": "2026-09-06T16:17:40.000Z",
-          "url": "https://x.com/satyanadella/status/2096633945869996050",
-          "likes": 89,
-          "retweets": 7,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2097205093758325025",
+          "text": "My first week where I’ve ever ran out of OpenAI usage 4 times and haven’t touched Anthropic \n\nAstra is AGI https://t.co/vAZxPM2jRh",
+          "createdAt": "2026-09-08T06:07:13.000Z",
+          "url": "https://x.com/jayagup10/status/2097205093758325025",
+          "likes": 33,
+          "retweets": 0,
+          "replies": 6,
+          "isQuote": true,
+          "quotedTweetId": "2097088586843816330"
         },
         {
-          "id": "2096633944099942713",
-          "text": "It was a great week for innovation across the model ecosystem. We're bringing these new models into Copilot, enabling it to take on increasingly complex work, from quick questions to delegated tasks and, increasingly, complete long-running jobs through Autopilots.\n\nHere's one fun example: using an Opal-powered Autopilot running on a secure Windows 365 Cloud PC, Copilot goes through a month of trail cam footage, finds every animal sighting, creates a highlight reel of the best clips, labels each one with the camera, date, and species, catalogs every sighting in a spreadsheet, builds a PowerPoint summarizing the findings, and shares everything in Teams for colleagues to review.\n\nThis is the next frontier for Copilot: software that doesn't just assist with work, but can own and complete entire tasks that unfold over hours or days.",
-          "createdAt": "2026-09-06T16:17:40.000Z",
-          "url": "https://x.com/satyanadella/status/2096633944099942713",
-          "likes": 1337,
-          "retweets": 125,
-          "replies": 125,
+          "id": "2097034808195248431",
+          "text": "After Instinct signed me up for a fake McKinsey alumni group, I asked it how a hacker could get every GPs data that’s using it \n\nAnd it came up with the entire plan including the monetization path being “LP wire fraud, etc” https://t.co/cF9sg4VrFW",
+          "createdAt": "2026-09-07T18:50:33.000Z",
+          "url": "https://x.com/jayagup10/status/2097034808195248431",
+          "likes": 76,
+          "retweets": 2,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null
         }
