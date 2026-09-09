@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-09-08T07:00:15.818Z",
+  "generatedAt": "2026-09-09T07:00:14.964Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2097205093758325025",
-          "text": "My first week where I’ve ever ran out of OpenAI usage 4 times and haven’t touched Anthropic \n\nAstra is AGI https://t.co/vAZxPM2jRh",
-          "createdAt": "2026-09-08T06:07:13.000Z",
-          "url": "https://x.com/jayagup10/status/2097205093758325025",
-          "likes": 33,
-          "retweets": 0,
-          "replies": 6,
-          "isQuote": true,
-          "quotedTweetId": "2097088586843816330"
-        },
-        {
-          "id": "2097034808195248431",
-          "text": "After Instinct signed me up for a fake McKinsey alumni group, I asked it how a hacker could get every GPs data that’s using it \n\nAnd it came up with the entire plan including the monetization path being “LP wire fraud, etc” https://t.co/cF9sg4VrFW",
-          "createdAt": "2026-09-07T18:50:33.000Z",
-          "url": "https://x.com/jayagup10/status/2097034808195248431",
-          "likes": 76,
-          "retweets": 2,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
