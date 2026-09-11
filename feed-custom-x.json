@@ -1,81 +1,9 @@
 {
-  "generatedAt": "2026-09-10T07:00:15.388Z",
+  "generatedAt": "2026-09-11T07:00:11.837Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2097897239771586628",
-          "text": "If you have a TON of B300s, LMK\n\nWill pay a premium :-)",
-          "createdAt": "2026-09-10T03:57:33.000Z",
-          "url": "https://x.com/jayagup10/status/2097897239771586628",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2097885655485571178",
-          "text": "Phenomenal takes in here \n\n“But here's an interesting question - why has nobody truly been paying close attention to matching capabilities to the unlock? Where is this discourse happening? The root cause of all the shallowness in thinking is that the wrong category was crowned far too early: the AI-native ERP. That is fundamentally the wrong abstraction for what AI changes in finance.”",
-          "createdAt": "2026-09-10T03:11:31.000Z",
-          "url": "https://x.com/jayagup10/status/2097885655485571178",
-          "likes": 32,
-          "retweets": 2,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2097482900597870848"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2097817665335374207",
-          "text": "Learn more: https://t.co/V7CipGkJ7g",
-          "createdAt": "2026-09-09T22:41:21.000Z",
-          "url": "https://x.com/satyanadella/status/2097817665335374207",
-          "likes": 24,
-          "retweets": 3,
-          "replies": 7,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2097817577988952385",
-          "text": "With the @NFL back tonight, love seeing @Seahawks analyst Brian Eayrs and coaches across the league using new Copilot and Excel tools to help with decision making in the booths and on the sidelines. https://t.co/PbHugcbLIJ",
-          "createdAt": "2026-09-09T22:41:00.000Z",
-          "url": "https://x.com/satyanadella/status/2097817577988952385",
-          "likes": 306,
-          "retweets": 34,
-          "replies": 30,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2097734292063617213",
-          "text": "This first-of-a-kind agreement will set a new standard for safe and responsible AI use in schools. We are making these protections available to every school district in the US. https://t.co/HiGD2OG1Jl",
-          "createdAt": "2026-09-09T17:10:03.000Z",
-          "url": "https://x.com/satyanadella/status/2097734292063617213",
-          "likes": 529,
-          "retweets": 59,
-          "replies": 58,
-          "isQuote": true,
-          "quotedTweetId": "2097711623180099702"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 5
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
