@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-09-11T07:00:11.837Z",
+  "generatedAt": "2026-09-12T07:00:11.089Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2098422013375418832",
+          "text": "Another way to use Astra for VCs: ask Astra to iteratively use Instinct for 12 hours to ask questions to Instinct to reverse engineer the system architecture, design + interface, customer feedback / usecases and memory choices\n\nWorks well, is way cheaper and generated over 80 pages of in depth research that you could have never found with all the liars on AlphaSights",
+          "createdAt": "2026-09-11T14:42:49.000Z",
+          "url": "https://x.com/jayagup10/status/2098422013375418832",
+          "likes": 188,
+          "retweets": 4,
+          "replies": 7,
+          "isQuote": true,
+          "quotedTweetId": "2098354455389339721"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
