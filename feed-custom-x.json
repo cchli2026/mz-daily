@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-12T07:00:11.089Z",
+  "generatedAt": "2026-09-13T07:00:46.485Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2098422013375418832",
-          "text": "Another way to use Astra for VCs: ask Astra to iteratively use Instinct for 12 hours to ask questions to Instinct to reverse engineer the system architecture, design + interface, customer feedback / usecases and memory choices\n\nWorks well, is way cheaper and generated over 80 pages of in depth research that you could have never found with all the liars on AlphaSights",
-          "createdAt": "2026-09-11T14:42:49.000Z",
-          "url": "https://x.com/jayagup10/status/2098422013375418832",
-          "likes": 188,
-          "retweets": 4,
-          "replies": 7,
+          "id": "2098795435582488889",
+          "text": "More model choice coming to Copilot. Welcome Grok! https://t.co/7Rzg8zUrjb",
+          "createdAt": "2026-09-12T15:26:40.000Z",
+          "url": "https://x.com/satyanadella/status/2098795435582488889",
+          "likes": 6402,
+          "retweets": 468,
+          "replies": 353,
           "isQuote": true,
-          "quotedTweetId": "2098354455389339721"
+          "quotedTweetId": "2098791167185785301"
         }
       ]
     }
