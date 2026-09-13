@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-13T07:00:46.485Z",
+  "generatedAt": "2026-09-13T07:01:58.448Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2098795435582488889",
-          "text": "More model choice coming to Copilot. Welcome Grok! https://t.co/7Rzg8zUrjb",
-          "createdAt": "2026-09-12T15:26:40.000Z",
-          "url": "https://x.com/satyanadella/status/2098795435582488889",
-          "likes": 6402,
-          "retweets": 468,
-          "replies": 353,
-          "isQuote": true,
-          "quotedTweetId": "2098791167185785301"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
