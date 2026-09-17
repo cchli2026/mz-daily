@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:00:13.096Z",
+  "generatedAt": "2026-09-17T07:00:10.844Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,40 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2100077806537621719",
-          "text": "If you’re the CEO of any software company and you’re not offering open-weight models as a SKU right now, you’re asleep.\n\n“Pace the frontier” may be the greatest invitation software incumbents have ever gotten. While the labs debate how quickly intelligence should advance, software companies should be racing to commoditize the intelligence we already have.\n\nPharma and banks are already picking up open weight models partly for margins, partly because a revocable lab API is a dependency they increasingly don’t want!!! \nAI natives and tech companies that care about COGS are doing the same.\n\nMost software companies that tried had failed attempts because the open weight models sucked. But now open weight models are good enough. \n\nI believe that every major software company should become a model factory for its vertical: own the evals, post-train open weights on the workloads it uniquely sees, serve those models to its customers, and use production feedback to continuously improve them!",
-          "createdAt": "2026-09-16T04:22:21.000Z",
-          "url": "https://x.com/jayagup10/status/2100077806537621719",
-          "likes": 107,
-          "retweets": 8,
-          "replies": 11,
+          "id": "2100473255094337994",
+          "text": "You can reverse engineer w Astra https://t.co/CQSRC43PlX",
+          "createdAt": "2026-09-17T06:33:43.000Z",
+          "url": "https://x.com/jayagup10/status/2100473255094337994",
+          "likes": 1,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": true,
+          "quotedTweetId": "2099125228886511934"
+        },
+        {
+          "id": "2100466598641545562",
+          "text": "Will Americans care that Instinct runs on Kimi? Not sure.\n\nIt’s a fast-growing consumer app on iMessage with access to inbox, cards, screen running on a Chinese model.\n\nMeanwhile, Muse offers incredible capability on a closed American model. But what would have happened if they also used Kimi? \n\nIt is going to be interesting to see how much this will matter going forward with other “American” consumer apps as well",
+          "createdAt": "2026-09-17T06:07:16.000Z",
+          "url": "https://x.com/jayagup10/status/2100466598641545562",
+          "likes": 21,
+          "retweets": 1,
+          "replies": 8,
           "isQuote": false,
           "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2099937054503391632",
-          "text": "Great conversation with @chamath, @jason, @davidsacks, and @friedberg on all the work ahead when it comes to diffusing benefits of AI broadly, earning permission from communities, and ensuring AI safety and control. https://t.co/LLDBORZV1M",
-          "createdAt": "2026-09-15T19:03:03.000Z",
-          "url": "https://x.com/satyanadella/status/2099937054503391632",
-          "likes": 1306,
-          "retweets": 139,
-          "replies": 97,
-          "isQuote": true,
-          "quotedTweetId": "2099913648164753524"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
+    "xBuilders": 1,
     "totalTweets": 2
   }
 }
