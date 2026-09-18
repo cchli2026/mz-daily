@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T07:00:10.844Z",
+  "generatedAt": "2026-09-18T07:00:17.922Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2100473255094337994",
-          "text": "You can reverse engineer w Astra https://t.co/CQSRC43PlX",
-          "createdAt": "2026-09-17T06:33:43.000Z",
-          "url": "https://x.com/jayagup10/status/2100473255094337994",
-          "likes": 1,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2100803097740419357",
+          "text": "There is literally no stability to be found in the AI stack. In the last few months:\n\n1.) I moved all my intense recurring workloads from OpenAI to Anthropic and now back to OpenAI \n2.) Used GrokBot as an over lay on top of OpenAI and Anthropic but am now switching this to Muse \n3.) liked Instinct for a week until Muse came out \n4.) Was using Exa and TinyFish only to now discover this new model called Jev which can save me money on all of the tools listed above \n\nIn the matter of days, something that was an “oh shit moment” becomes underwhelming. As a consumer of these tools what a fun time to be alive",
+          "createdAt": "2026-09-18T04:24:24.000Z",
+          "url": "https://x.com/jayagup10/status/2100803097740419357",
+          "likes": 210,
+          "retweets": 11,
+          "replies": 28,
           "isQuote": true,
-          "quotedTweetId": "2099125228886511934"
-        },
-        {
-          "id": "2100466598641545562",
-          "text": "Will Americans care that Instinct runs on Kimi? Not sure.\n\nIt’s a fast-growing consumer app on iMessage with access to inbox, cards, screen running on a Chinese model.\n\nMeanwhile, Muse offers incredible capability on a closed American model. But what would have happened if they also used Kimi? \n\nIt is going to be interesting to see how much this will matter going forward with other “American” consumer apps as well",
-          "createdAt": "2026-09-17T06:07:16.000Z",
-          "url": "https://x.com/jayagup10/status/2100466598641545562",
-          "likes": 21,
-          "retweets": 1,
-          "replies": 8,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2100713341555712149"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
