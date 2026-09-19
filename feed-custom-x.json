@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-18T07:00:17.922Z",
+  "generatedAt": "2026-09-19T07:00:11.231Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2100803097740419357",
-          "text": "There is literally no stability to be found in the AI stack. In the last few months:\n\n1.) I moved all my intense recurring workloads from OpenAI to Anthropic and now back to OpenAI \n2.) Used GrokBot as an over lay on top of OpenAI and Anthropic but am now switching this to Muse \n3.) liked Instinct for a week until Muse came out \n4.) Was using Exa and TinyFish only to now discover this new model called Jev which can save me money on all of the tools listed above \n\nIn the matter of days, something that was an “oh shit moment” becomes underwhelming. As a consumer of these tools what a fun time to be alive",
-          "createdAt": "2026-09-18T04:24:24.000Z",
-          "url": "https://x.com/jayagup10/status/2100803097740419357",
-          "likes": 210,
-          "retweets": 11,
-          "replies": 28,
-          "isQuote": true,
-          "quotedTweetId": "2100713341555712149"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
