@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-24T07:00:13.516Z",
+  "generatedAt": "2026-09-25T07:00:08.620Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2102983087302815941",
-          "text": "If the markets took DeepSeek seriously as a threat to frontier labs, they should be taking Jev (and Jev like-models) far more seriously. Here is why:\n\n1. It's built for every developer, not just ML teams.\n\nUntil now, cutting model costs meant open-weight models: choosing a base, hosting it, fine-tuning it, evaluating it, and retraining it. That's an ML team's job, and most companies don't rlly have one. Jev is an API - it works on day one with no GPUs and no training.\n\n2. It's so cheap that everyone is trying it, and everyone is suddenly discovering the waste. \n\nAt a fraction of a cent per decision, there's no reason not to test it. Anyone can paste the API key into Claude or ChatGPT and ask it to find savings, including non-technical people (so many talent teams are already using it) Curiosity is turning into discovery: companies see how much they've been paying flagship prices for yes-or-no answers. Teams that never cared about inference cost now do, including non-tech companies. \n\n3. It hits every term of the frontier revenue equation.\n\nFrontier revenue is (calls) × (tokens per call) × (price per token). Decision / Jev models pressure all three.\n\na.) Fewer calls. Frontier valuations assume the labs capture the agent boom: millions of agents making billions of calls. But most agent steps are decisions: which tool, is this done / safe / escalate / classifying / tagging /routing. Simple generation moves to cheaper and open models. Retries, wasted steps, and escalations disappear !\n\nb.) Smaller calls. Routers strip stale context and unneeded tools, so the calls that still reach the frontier cost less.\n\nc.) Cheaper calls. Once routers show cost per task side by side, flagship pricing on routine work doesn't hold.\n\n4. It puts a router in front of and within every AI product.\n\nRouters existed before, but they were hard to build and unreliable. Decision models fix both. They're the ideal router: fast, nearly free, and they report how confident they are, so the router knows when to escalate. Routers are now becoming a built-in setting in the tools developers already use, so companies get one without building anything. \n\nToday, the frontier model runs the agent: it decides what to do next and calls tools. With decision models, ordinary code and cheap decisions run the loop, and the frontier model becomes a function the software calls when it needs heavy reasoning\n\n5.) Every defense the labs have speeds it up. Price cuts confirm customers were overpaying. Shipping their own routers teaches customers to route, and makes it easier to route to competitors!  Cheap decision tiers move the labs' own customers onto cheaper products and cannibalize revenue. \n\n6.)  They make post-training economical, and simultaneously increase the demand for it.  One of the higher costs in RL on real enterprise work has been grading tasks without a checkable answer. A cheap, calibrated grader removes that cost. Environments become cheaper to run, router logs show which expensive workloads are worth replacing, and every team that discovered its overspend becomes a curious buyer. Companies that train, serve, and retrain custom models get cheaper inputs and a pipeline of motivated customers at the same time.\n\nIf DeepSeek made the market question the supply side: the cost of pretraining, the durability of the model moat, and how long a frontier model stays frontier,  decision models make it question the demand side: how many calls actually need a frontier model at all.....",
-          "createdAt": "2026-09-24T04:46:54.000Z",
-          "url": "https://x.com/jayagup10/status/2102983087302815941",
-          "likes": 77,
-          "retweets": 5,
-          "replies": 19,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
