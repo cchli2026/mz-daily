@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-09-25T07:00:08.620Z",
+  "generatedAt": "2026-09-26T07:00:11.358Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2103475443089420408",
+          "text": "The motivation behind the new Copilot: intelligence is accelerating fast. Now we need to diffuse it everywhere. https://t.co/W8XnQIK95M",
+          "createdAt": "2026-09-25T13:23:20.000Z",
+          "url": "https://x.com/satyanadella/status/2103475443089420408",
+          "likes": 2052,
+          "retweets": 169,
+          "replies": 169,
+          "isQuote": true,
+          "quotedTweetId": "2103470116906176622"
+        },
+        {
+          "id": "2103455886236938566",
+          "text": "Read more about what we announced today: https://t.co/0ptyPwBGhd",
+          "createdAt": "2026-09-25T12:05:38.000Z",
+          "url": "https://x.com/satyanadella/status/2103455886236938566",
+          "likes": 380,
+          "retweets": 44,
+          "replies": 23,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2103455884366188544",
+          "text": "We’re building Copilot as a new OS for work that spans every model, every form factor, and every task. Today, we’re announcing our biggest update to Copilot to date, bringing four things together:\n\n· Autopilot: proactive and long-running agent built for the enterprise\n· Code: build apps with Copilot, hosted inside your company’s tenant\n· Home: Chat + Cowork together\n· Office: now fully embedded in Copilot (and Copilot embedded in Office, of course!)\n\nPlus, you can invoke Copilot in Teams, and we’re introducing Today, a proactive experience that surfaces the most important information from across M365 without needing to ask for it.\n\nThe way we work is changing and so are our workflows. This update brings AI into that flow, from answering a question, to building an app, to getting work done on your behalf.",
+          "createdAt": "2026-09-25T12:05:37.000Z",
+          "url": "https://x.com/satyanadella/status/2103455884366188544",
+          "likes": 8882,
+          "retweets": 1122,
+          "replies": 871,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
