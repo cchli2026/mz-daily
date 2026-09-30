@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-09-29T07:00:10.609Z",
+  "generatedAt": "2026-09-30T07:00:18.487Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2104966608880111891",
+          "text": "And because I know @ayeshaaroraa and @vral will say I told you so\n\nTagging them because they were either early to the idea or opened my mind up to it",
+          "createdAt": "2026-09-29T16:08:42.000Z",
+          "url": "https://x.com/jayagup10/status/2104966608880111891",
+          "likes": 2,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2104962984644915621",
+          "text": "This is an awesome idea. One of the coolest parts of being in SF right now and deep in startup activity is how much early-stage trends can inform how you think about public markets.\n\nFor example, the wave of agent infrastructure startups over the last year : sandboxes, browser automation, evals, identity, observability, etc. has been a useful signal for where the industry is heading. It makes you ask which public companies already have the infrastructure and distribution to support these new workloads.\n\nCloudflare is a great example. They’ve been building toward a lot of this for years, and in retrospect the rise of agent infrastructure made some of those earlier technical bets increasingly relevant.\n\nKeeping up with AI is already a full-time job, though, so there’s not exactly time to become an expert on the history of every public company too.\n\nIt’s never been more important to connect early stage trends with publics",
+          "createdAt": "2026-09-29T15:54:18.000Z",
+          "url": "https://x.com/jayagup10/status/2104962984644915621",
+          "likes": 99,
+          "retweets": 3,
+          "replies": 11,
+          "isQuote": true,
+          "quotedTweetId": "2104572217866772898"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
