@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-10-05T07:00:12.139Z",
+  "generatedAt": "2026-10-06T07:00:09.992Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2106790885178606019",
-          "text": "It’s crazy how many absurdly high quality inference teams are raising at the seed and Series A right now. It may be the category with the highest density of talent I’ve seen in years.\n\nAt the same time, there’s some window for an M&A opportunity for majority of these teams, and conversations with all the most likely buyers have indicated desire for high amounts of experience with production systems at places like Meta / AWS/ etc as there’s a shortage of talent in this space with people that have 10+ years of experience. As well as people that won’t leave after 1-2 years.\n\nIf you’re a team in this space with a lil bit of grey hair, the opportunity to sell at a nice multiple is here and now!",
-          "createdAt": "2026-10-04T16:57:43.000Z",
-          "url": "https://x.com/jayagup10/status/2106790885178606019",
-          "likes": 224,
-          "retweets": 1,
-          "replies": 23,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
