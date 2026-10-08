@@ -1,29 +1,51 @@
 {
-  "generatedAt": "2026-10-07T07:00:08.858Z",
+  "generatedAt": "2026-10-08T07:00:09.047Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2107691695563547030",
-          "text": "Well said https://t.co/eBkZZwVoHi",
-          "createdAt": "2026-10-07T04:37:13.000Z",
-          "url": "https://x.com/jayagup10/status/2107691695563547030",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2107534091193401399"
+          "id": "2107939627898400819",
+          "text": "Great to partner with NVIDIA as we kick off this next chapter for Windows.\n\nThank you @JensenHuang and @sriramk for joining us today! https://t.co/Jh1os7T9Zu",
+          "createdAt": "2026-10-07T21:02:25.000Z",
+          "url": "https://x.com/satyanadella/status/2107939627898400819",
+          "likes": 2114,
+          "retweets": 209,
+          "replies": 109,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2107919670062006282",
+          "text": "Read more: https://t.co/4KVpKCeCAg",
+          "createdAt": "2026-10-07T19:43:07.000Z",
+          "url": "https://x.com/satyanadella/status/2107919670062006282",
+          "likes": 84,
+          "retweets": 17,
+          "replies": 9,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2107919668514295908",
+          "text": "We’re supercharging Copilot on Windows with Hybrid Intelligence.\n\nWith your permission, Copilot can tap into the context on your PC, take action for you, and use local models when it makes sense, giving you more capability while helping your tokens go further. https://t.co/7YvqHh8RKT",
+          "createdAt": "2026-10-07T19:43:06.000Z",
+          "url": "https://x.com/satyanadella/status/2107919668514295908",
+          "likes": 2124,
+          "retweets": 267,
+          "replies": 181,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 3
   }
 }
