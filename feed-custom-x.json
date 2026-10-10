@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T07:00:10.149Z",
+  "generatedAt": "2026-10-10T07:00:07.775Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,24 +9,24 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2108262211336679893",
-          "text": "Thank you, @POTUS, for this incredible honor today. I'm humbled to stand alongside so many giants of American innovation and looking forward for what we can continue to do together to advance technology and drive American prosperity. https://t.co/RpoeJU61yp",
-          "createdAt": "2026-10-08T18:24:15.000Z",
-          "url": "https://x.com/satyanadella/status/2108262211336679893",
-          "likes": 5359,
-          "retweets": 366,
-          "replies": 626,
-          "isQuote": true,
-          "quotedTweetId": "2108257009304822202"
+          "id": "2108627925654503761",
+          "text": "Available now in Foundry and soon through OpenRouter: https://t.co/QBWsCmfIrm",
+          "createdAt": "2026-10-09T18:37:28.000Z",
+          "url": "https://x.com/satyanadella/status/2108627925654503761",
+          "likes": 442,
+          "retweets": 30,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2108213283144810958",
-          "text": "https://t.co/I0uBgivA2e",
-          "createdAt": "2026-10-08T15:09:50.000Z",
-          "url": "https://x.com/satyanadella/status/2108213283144810958",
-          "likes": 2248,
-          "retweets": 263,
-          "replies": 188,
+          "id": "2108627923888754862",
+          "text": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery.",
+          "createdAt": "2026-10-09T18:37:28.000Z",
+          "url": "https://x.com/satyanadella/status/2108627923888754862",
+          "likes": 7505,
+          "retweets": 677,
+          "replies": 449,
           "isQuote": false,
           "quotedTweetId": null
         }
