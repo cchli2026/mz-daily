@@ -1,7 +1,26 @@
 {
-  "generatedAt": "2026-10-10T07:00:07.775Z",
+  "generatedAt": "2026-10-11T07:00:07.937Z",
   "lookbackHours": 24,
   "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2109150735112057146",
+          "text": "Wow. Even Microsoft shipped decision models. This may be the fastest thing I’ve ever seen them ship\n\nIf corporations / incumbents want these, it’s pretty cheap to either use one off the shelf or get a post trained one! https://t.co/xvT5vGJOqz",
+          "createdAt": "2026-10-11T05:14:56.000Z",
+          "url": "https://x.com/jayagup10/status/2109150735112057146",
+          "likes": 11,
+          "retweets": 0,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2108627923888754862"
+        }
+      ]
+    },
     {
       "source": "x",
       "name": "Satya Nadella",
@@ -9,24 +28,13 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2108627925654503761",
-          "text": "Available now in Foundry and soon through OpenRouter: https://t.co/QBWsCmfIrm",
-          "createdAt": "2026-10-09T18:37:28.000Z",
-          "url": "https://x.com/satyanadella/status/2108627925654503761",
-          "likes": 442,
-          "retweets": 30,
-          "replies": 22,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2108627923888754862",
-          "text": "Introducing Microsoft-Decision-1, our new model for fast decision-making.\n\nIt delivers top performance on structured decision tasks, outperforming both LLMs and other decision models in latency and quality.\n\nWe’re already testing it across Microsoft for everything from incident response and quality control to scientific discovery.",
-          "createdAt": "2026-10-09T18:37:28.000Z",
-          "url": "https://x.com/satyanadella/status/2108627923888754862",
-          "likes": 7505,
-          "retweets": 677,
-          "replies": 449,
+          "id": "2108931348857827686",
+          "text": "https://t.co/MjwFy73LOF",
+          "createdAt": "2026-10-10T14:43:10.000Z",
+          "url": "https://x.com/satyanadella/status/2108931348857827686",
+          "likes": 7500,
+          "retweets": 1276,
+          "replies": 1096,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -34,7 +42,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 1,
+    "xBuilders": 2,
     "totalTweets": 2
   }
 }
