@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T07:00:07.937Z",
+  "generatedAt": "2026-10-12T07:00:14.331Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,40 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2109150735112057146",
-          "text": "Wow. Even Microsoft shipped decision models. This may be the fastest thing I’ve ever seen them ship\n\nIf corporations / incumbents want these, it’s pretty cheap to either use one off the shelf or get a post trained one! https://t.co/xvT5vGJOqz",
-          "createdAt": "2026-10-11T05:14:56.000Z",
-          "url": "https://x.com/jayagup10/status/2109150735112057146",
-          "likes": 11,
-          "retweets": 0,
-          "replies": 4,
+          "id": "2109414688924856810",
+          "text": "Inference is the second way to raise a massive round right now. After the labs, you can still justify massive rounds by pointing at data centers and compute, which means more inference companies keep getting funded even as the underlying product stays extremely easy to switch away from. On the flip side, many neolabs are also renting out their own compute, adding yet another source of supply into the same market.\n\nCompanies that tried to verticalize around batch workloads and post-training are now pivoting back to \"pure inference\" and joining the same undercutting cycle. The result is a permanent reverse auction: providers undercut each other over and over: half off Fireworks, half off Baseten, 10% cheaper GLM or Kimi—and every new entrant or neolab offering capacity just accelerates the cheaper pricing\n\nAt the same time, app companies have so much choice right now that they can bake off and compete prices down extremely hard. They move millions of run-rate spend overnight whenever a meaningfully cheaper option appears, because the technical switching cost is essentially \"one line of code\". \n\nThat combination: easy capital, extra compute from neolabs, low stickiness, and continuous price pressure makes inference one of the less defensible layers in the stack even as it continues to attract large valuations. \n\nHowever, if you are a smart team of infra people, it is the easiest way to raise 100M seed after a neolab\n\nResearchers: neolab <> engineers: inference",
+          "createdAt": "2026-10-11T22:43:47.000Z",
+          "url": "https://x.com/jayagup10/status/2109414688924856810",
+          "likes": 302,
+          "retweets": 26,
+          "replies": 24,
           "isQuote": true,
-          "quotedTweetId": "2108627923888754862"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2108931348857827686",
-          "text": "https://t.co/MjwFy73LOF",
-          "createdAt": "2026-10-10T14:43:10.000Z",
-          "url": "https://x.com/satyanadella/status/2108931348857827686",
-          "likes": 7500,
-          "retweets": 1276,
-          "replies": 1096,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2108946658142613859"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 2
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
