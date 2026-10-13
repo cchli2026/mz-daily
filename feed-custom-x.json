@@ -1,29 +1,40 @@
 {
-  "generatedAt": "2026-10-12T07:00:14.331Z",
+  "generatedAt": "2026-10-13T07:00:08.965Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2109414688924856810",
-          "text": "Inference is the second way to raise a massive round right now. After the labs, you can still justify massive rounds by pointing at data centers and compute, which means more inference companies keep getting funded even as the underlying product stays extremely easy to switch away from. On the flip side, many neolabs are also renting out their own compute, adding yet another source of supply into the same market.\n\nCompanies that tried to verticalize around batch workloads and post-training are now pivoting back to \"pure inference\" and joining the same undercutting cycle. The result is a permanent reverse auction: providers undercut each other over and over: half off Fireworks, half off Baseten, 10% cheaper GLM or Kimi—and every new entrant or neolab offering capacity just accelerates the cheaper pricing\n\nAt the same time, app companies have so much choice right now that they can bake off and compete prices down extremely hard. They move millions of run-rate spend overnight whenever a meaningfully cheaper option appears, because the technical switching cost is essentially \"one line of code\". \n\nThat combination: easy capital, extra compute from neolabs, low stickiness, and continuous price pressure makes inference one of the less defensible layers in the stack even as it continues to attract large valuations. \n\nHowever, if you are a smart team of infra people, it is the easiest way to raise 100M seed after a neolab\n\nResearchers: neolab <> engineers: inference",
-          "createdAt": "2026-10-11T22:43:47.000Z",
-          "url": "https://x.com/jayagup10/status/2109414688924856810",
-          "likes": 302,
-          "retweets": 26,
-          "replies": 24,
-          "isQuote": true,
-          "quotedTweetId": "2108946658142613859"
+          "id": "2109631109248262421",
+          "text": "Read more: https://t.co/VRFqg3XHFY",
+          "createdAt": "2026-10-12T13:03:46.000Z",
+          "url": "https://x.com/satyanadella/status/2109631109248262421",
+          "likes": 337,
+          "retweets": 30,
+          "replies": 22,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2109631106404487523",
+          "text": "Today we are announcing our biggest bet yet on our own silicon.\n\nStarting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.\n\nAnd we’re introducing Maia 300, which delivers 40% more tokens per watt compared to leading GPU-based systems.\n\nWe are already deploying Maia 200 across the US, Europe, and Australia, delivering up to 1.7x more tokens per watt across experiences in Teams and Copilot.\n\nOur goal is to build on the full-stack efficiency gains we’ve already seen, while continuing to bring the latest innovations from across the ecosystem into our fleet.",
+          "createdAt": "2026-10-12T13:03:45.000Z",
+          "url": "https://x.com/satyanadella/status/2109631106404487523",
+          "likes": 13774,
+          "retweets": 1458,
+          "replies": 678,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
