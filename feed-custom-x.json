@@ -1,32 +1,21 @@
 {
-  "generatedAt": "2026-10-13T07:00:08.965Z",
+  "generatedAt": "2026-10-14T07:00:08.413Z",
   "lookbackHours": 24,
   "x": [
     {
       "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2109631109248262421",
-          "text": "Read more: https://t.co/VRFqg3XHFY",
-          "createdAt": "2026-10-12T13:03:46.000Z",
-          "url": "https://x.com/satyanadella/status/2109631109248262421",
-          "likes": 337,
-          "retweets": 30,
-          "replies": 22,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2109631106404487523",
-          "text": "Today we are announcing our biggest bet yet on our own silicon.\n\nStarting next calendar year, we will scale our Maia family to multi-gigawatt deployments, making it the primary inference system for our own product and services.\n\nAnd we’re introducing Maia 300, which delivers 40% more tokens per watt compared to leading GPU-based systems.\n\nWe are already deploying Maia 200 across the US, Europe, and Australia, delivering up to 1.7x more tokens per watt across experiences in Teams and Copilot.\n\nOur goal is to build on the full-stack efficiency gains we’ve already seen, while continuing to bring the latest innovations from across the ecosystem into our fleet.",
-          "createdAt": "2026-10-12T13:03:45.000Z",
-          "url": "https://x.com/satyanadella/status/2109631106404487523",
-          "likes": 13774,
-          "retweets": 1458,
-          "replies": 678,
+          "id": "2110192015858450452",
+          "text": "The only thing we have to fear is fear itself",
+          "createdAt": "2026-10-14T02:12:36.000Z",
+          "url": "https://x.com/jayagup10/status/2110192015858450452",
+          "likes": 23,
+          "retweets": 1,
+          "replies": 3,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -35,6 +24,6 @@
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
