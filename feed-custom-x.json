@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T07:00:08.394Z",
+  "generatedAt": "2026-10-18T07:00:07.969Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,51 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2111276177470239129",
-          "text": "Multiply these choices together and the companies assembling agents become always-on negotiators. Much enterprise software is still bought on multi-year contracts, but agent workloads are increasingly bought by the request. Assemblers test combinations of models, tools and runtimes against completion rate, speed and cost, and send more work to whatever wins. Swapping a runtime takes integration work; once routes are wired up, switching models takes a configuration change. The assembler can re-decide the mix on every run, so every supplier is competing for the next request.",
-          "createdAt": "2026-10-17T02:00:40.000Z",
-          "url": "https://x.com/jayagup10/status/2111276177470239129",
-          "likes": 31,
-          "retweets": 2,
-          "replies": 11,
+          "id": "2111622294246494594",
+          "text": "Example https://t.co/5dHvNKqP7R",
+          "createdAt": "2026-10-18T00:56:01.000Z",
+          "url": "https://x.com/jayagup10/status/2111622294246494594",
+          "likes": 1,
+          "retweets": 1,
+          "replies": 0,
           "isQuote": true,
-          "quotedTweetId": "2111223952609870085"
-        },
-        {
-          "id": "2111223952609870085",
-          "text": "https://t.co/hcrqRGJesV",
-          "createdAt": "2026-10-16T22:33:09.000Z",
-          "url": "https://x.com/jayagup10/status/2111223952609870085",
-          "likes": 262,
-          "retweets": 31,
-          "replies": 21,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2111204941801128366",
-          "text": "In @Nature this week, our new research shows how machine learning can improve weather forecasts two to six weeks out, a timeframe that's historically been very difficult to predict.\n\nIt's exciting to see the potential of this work to help us better prepare for extreme weather, manage natural resources, and make more informed decisions in agriculture.\n\nThere's a broader lesson here... the future may not just be about ever-more-capable models, but about building intelligent verification systems around them: systems that learn where models are systematically wrong, reason about cause and effect, and continuously calibrate predictions against reality.\n\nRead more: https://t.co/WTXJM09474",
-          "createdAt": "2026-10-16T21:17:37.000Z",
-          "url": "https://x.com/satyanadella/status/2111204941801128366",
-          "likes": 1123,
-          "retweets": 151,
-          "replies": 94,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2111375650414309859"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 3
+    "xBuilders": 1,
+    "totalTweets": 1
   }
 }
