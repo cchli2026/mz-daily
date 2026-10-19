@@ -102,7 +102,7 @@ function curlJSON(method, url, { headers = {}, body, timeoutSec = 30 } = {}) {
     : { 'Content-Type': 'application/json', ...headers };
   const args = [
     '-sS', '--max-time', String(timeoutSec),
-    '-o', '/dev/stdout',
+    '-o', '-',
     '-w', `\n${STATUS_MARKER}%{http_code}`,
     '-X', method,
   ];
@@ -115,7 +115,7 @@ function curlJSON(method, url, { headers = {}, body, timeoutSec = 30 } = {}) {
 function curlText(url, timeoutSec = 25) {
   return runCurl([
     '-sSL', '--max-time', String(timeoutSec),
-    '-o', '/dev/stdout',
+    '-o', '-',
     '-w', `\n${STATUS_MARKER}%{http_code}`,
     url,
   ]);
