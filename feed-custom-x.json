@@ -1,9 +1,48 @@
 {
-  "generatedAt": "2026-10-19T08:31:01.458Z",
+  "generatedAt": "2026-10-20T07:00:53.633Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2112342913460150659",
+          "text": "This is going to COOK\n\n@ayeshaaroraa LFG",
+          "createdAt": "2026-10-20T00:39:30.000Z",
+          "url": "https://x.com/jayagup10/status/2112342913460150659",
+          "likes": 91,
+          "retweets": 2,
+          "replies": 13,
+          "isQuote": true,
+          "quotedTweetId": "2112338327516897371"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2112168320946634932",
+          "text": "I recently wrote about why we need to treat models as insider risks, with security controls sitting outside the model itself.\n\nToday, we're putting that principle into practice by expanding Project Perception with new capabilities to help continuously assess agent risk, adapt permissions, and contain threats.\nhttps://t.co/ec3Z2B260G",
+          "createdAt": "2026-10-19T13:05:44.000Z",
+          "url": "https://x.com/satyanadella/status/2112168320946634932",
+          "likes": 1560,
+          "retweets": 271,
+          "replies": 226,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 2
   }
 }
