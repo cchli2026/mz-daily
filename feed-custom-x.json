@@ -1,26 +1,7 @@
 {
-  "generatedAt": "2026-10-21T07:00:47.595Z",
+  "generatedAt": "2026-10-22T07:00:39.959Z",
   "lookbackHours": 24,
   "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2112741281206268262",
-          "text": "Honored to make the cut esp from someone whose newsletter I read everyday growing up https://t.co/8qNqo2i0Vi",
-          "createdAt": "2026-10-21T03:02:28.000Z",
-          "url": "https://x.com/jayagup10/status/2112741281206268262",
-          "likes": 42,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2112668076067999920"
-        }
-      ]
-    },
     {
       "source": "x",
       "name": "Satya Nadella",
@@ -28,35 +9,35 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2112498871368892527",
-          "text": "Read more: https://t.co/nMV6v8eheh",
-          "createdAt": "2026-10-20T10:59:13.000Z",
-          "url": "https://x.com/satyanadella/status/2112498871368892527",
-          "likes": 26,
+          "id": "2113008920008790488",
+          "text": "In my annual letter, I share how we’re building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity for people, organizations, and communities everywhere. https://t.co/Zcrb96sCC3",
+          "createdAt": "2026-10-21T20:45:58.000Z",
+          "url": "https://x.com/satyanadella/status/2113008920008790488",
+          "likes": 786,
+          "retweets": 127,
+          "replies": 64,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2112858769201979476",
+          "text": "Read more: https://t.co/5oKvP7UelS",
+          "createdAt": "2026-10-21T10:49:20.000Z",
+          "url": "https://x.com/satyanadella/status/2112858769201979476",
+          "likes": 34,
           "retweets": 1,
-          "replies": 4,
+          "replies": 7,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2112498869531754900",
-          "text": "Great to meet with the @saintgobain team in Paris today and learn how they’re using Microsoft Discovery to help accelerate the development of new more-efficient construction materials. https://t.co/GSZ9MKxkxp",
-          "createdAt": "2026-10-20T10:59:13.000Z",
-          "url": "https://x.com/satyanadella/status/2112498869531754900",
-          "likes": 703,
-          "retweets": 68,
-          "replies": 86,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2112474291916910752",
-          "text": "Today in Paris, we announced new capabilities across Microsoft Sovereign Cloud, expanding choice and control for organizations running their most sensitive workloads across public and private cloud, and our growing partner ecosystem. https://t.co/nzVv1m3jUd",
-          "createdAt": "2026-10-20T09:21:33.000Z",
-          "url": "https://x.com/satyanadella/status/2112474291916910752",
-          "likes": 938,
-          "retweets": 169,
-          "replies": 113,
+          "id": "2112858767478190421",
+          "text": "Today in the UK, I saw how the Yorkshire Ambulance Service is using Copilot to cut down on administrative work and make better use of its data, and ultimately provide a better experience for medical personnel and patients.\n\nIt's an early example of what's possible as NHS England expands Copilot to as many as 500,000 clinicians and support staff across the country.",
+          "createdAt": "2026-10-21T10:49:19.000Z",
+          "url": "https://x.com/satyanadella/status/2112858767478190421",
+          "likes": 1084,
+          "retweets": 109,
+          "replies": 106,
           "isQuote": false,
           "quotedTweetId": null
         }
@@ -64,7 +45,7 @@
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 3
   }
 }
