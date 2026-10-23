@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T07:00:39.959Z",
+  "generatedAt": "2026-10-23T07:00:23.378Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,35 +9,35 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2113008920008790488",
-          "text": "In my annual letter, I share how we’re building a frontier ecosystem to turn technological progress into real-world outcomes and economic opportunity for people, organizations, and communities everywhere. https://t.co/Zcrb96sCC3",
-          "createdAt": "2026-10-21T20:45:58.000Z",
-          "url": "https://x.com/satyanadella/status/2113008920008790488",
-          "likes": 786,
-          "retweets": 127,
-          "replies": 64,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2113347282469077501",
+          "text": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diagnostic accuracy while reducing testing costs. https://t.co/NP89jnugsg",
+          "createdAt": "2026-10-22T19:10:30.000Z",
+          "url": "https://x.com/satyanadella/status/2113347282469077501",
+          "likes": 444,
+          "retweets": 53,
+          "replies": 49,
+          "isQuote": true,
+          "quotedTweetId": "2113332931423039945"
         },
         {
-          "id": "2112858769201979476",
-          "text": "Read more: https://t.co/5oKvP7UelS",
-          "createdAt": "2026-10-21T10:49:20.000Z",
-          "url": "https://x.com/satyanadella/status/2112858769201979476",
-          "likes": 34,
+          "id": "2113217361168015520",
+          "text": "Read more: https://t.co/1Cm0PrhsGt",
+          "createdAt": "2026-10-22T10:34:15.000Z",
+          "url": "https://x.com/satyanadella/status/2113217361168015520",
+          "likes": 24,
           "retweets": 1,
-          "replies": 7,
+          "replies": 5,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2112858767478190421",
-          "text": "Today in the UK, I saw how the Yorkshire Ambulance Service is using Copilot to cut down on administrative work and make better use of its data, and ultimately provide a better experience for medical personnel and patients.\n\nIt's an early example of what's possible as NHS England expands Copilot to as many as 500,000 clinicians and support staff across the country.",
-          "createdAt": "2026-10-21T10:49:19.000Z",
-          "url": "https://x.com/satyanadella/status/2112858767478190421",
-          "likes": 1084,
-          "retweets": 109,
-          "replies": 106,
+          "id": "2113217359108595808",
+          "text": "Keeping over a million elevators and escalators running smoothly is no small task. \n\nToday in Cologne, I heard about how TK Elevator is using our tech to help provide its service technicians access to decades of shared knowledge, streamlining the process, so they can spend less time searching for answers and more time keeping people moving.",
+          "createdAt": "2026-10-22T10:34:14.000Z",
+          "url": "https://x.com/satyanadella/status/2113217359108595808",
+          "likes": 941,
+          "retweets": 72,
+          "replies": 85,
           "isQuote": false,
           "quotedTweetId": null
         }
