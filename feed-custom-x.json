@@ -1,51 +1,9 @@
 {
-  "generatedAt": "2026-10-23T07:00:23.378Z",
+  "generatedAt": "2026-10-24T07:00:37.032Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2113347282469077501",
-          "text": "Important work from our team in @ScienceMagazine today, showing how our diagnostic orchestrator can reason through complex medical cases, achieving greater diagnostic accuracy while reducing testing costs. https://t.co/NP89jnugsg",
-          "createdAt": "2026-10-22T19:10:30.000Z",
-          "url": "https://x.com/satyanadella/status/2113347282469077501",
-          "likes": 444,
-          "retweets": 53,
-          "replies": 49,
-          "isQuote": true,
-          "quotedTweetId": "2113332931423039945"
-        },
-        {
-          "id": "2113217361168015520",
-          "text": "Read more: https://t.co/1Cm0PrhsGt",
-          "createdAt": "2026-10-22T10:34:15.000Z",
-          "url": "https://x.com/satyanadella/status/2113217361168015520",
-          "likes": 24,
-          "retweets": 1,
-          "replies": 5,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2113217359108595808",
-          "text": "Keeping over a million elevators and escalators running smoothly is no small task. \n\nToday in Cologne, I heard about how TK Elevator is using our tech to help provide its service technicians access to decades of shared knowledge, streamlining the process, so they can spend less time searching for answers and more time keeping people moving.",
-          "createdAt": "2026-10-22T10:34:14.000Z",
-          "url": "https://x.com/satyanadella/status/2113217359108595808",
-          "likes": 941,
-          "retweets": 72,
-          "replies": 85,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 3
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
