@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-10-25T07:00:33.055Z",
+  "generatedAt": "2026-10-26T07:00:16.808Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2114112259207397705",
-          "text": "Anthropic's growth slowed from 147% to 45% quarter over quarter.... and that was before its price cuts hit. Opus was cut 20% on Sep22. Haiku was cut 90% and Sonnet's cache reads 50% on Oct7, after the quarter closed. Q4 is the first quarter that has to absorb them! https://t.co/YOVSMOFgYl",
-          "createdAt": "2026-10-24T21:50:15.000Z",
-          "url": "https://x.com/jayagup10/status/2114112259207397705",
-          "likes": 106,
-          "retweets": 5,
-          "replies": 16,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
