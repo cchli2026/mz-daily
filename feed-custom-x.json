@@ -1,9 +1,40 @@
 {
-  "generatedAt": "2026-10-27T07:00:19.754Z",
+  "generatedAt": "2026-10-28T07:00:18.820Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2115318610931654938",
+          "text": "bring your own cache",
+          "createdAt": "2026-10-28T05:43:52.000Z",
+          "url": "https://x.com/jayagup10/status/2115318610931654938",
+          "likes": 0,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2115216581236322636",
+          "text": "Congrats to @ramkris and @ajkrish95 on raising a fat series A and closing multiple F500 companies. \n\nFinance will drive one of the next biggest waves of inference. The work is continuous, the judgment is company-specific, and every close creates feedback.\n\nMy bet is that Maximor leads the shift to post-trained open-weight models powering persistent finance agents for every CFO and CAO in the world! \n\n@ashugarg and I were lucky to partner with the company about a year ago. Thanks for letting us come along for the ride.",
+          "createdAt": "2026-10-27T22:58:26.000Z",
+          "url": "https://x.com/jayagup10/status/2115216581236322636",
+          "likes": 48,
+          "retweets": 4,
+          "replies": 2,
+          "isQuote": true,
+          "quotedTweetId": "2115080058260136204"
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
