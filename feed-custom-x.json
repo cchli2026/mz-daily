@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:00:18.820Z",
+  "generatedAt": "2026-10-29T07:00:18.124Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,62 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2115318610931654938",
-          "text": "bring your own cache",
-          "createdAt": "2026-10-28T05:43:52.000Z",
-          "url": "https://x.com/jayagup10/status/2115318610931654938",
-          "likes": 0,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2115505505955352727",
+          "text": "Wow @nikesharora at Stanford!!\n\nRumor is @BhathalTanvir0 going to put some AP Dhillon for the walk up song https://t.co/dPTVDNDZdM",
+          "createdAt": "2026-10-28T18:06:31.000Z",
+          "url": "https://x.com/jayagup10/status/2115505505955352727",
+          "likes": 83,
+          "retweets": 2,
+          "replies": 3,
+          "isQuote": true,
+          "quotedTweetId": "2115497664947298466"
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2115577773981073451",
+          "text": "5/ Read more about our results here: https://t.co/g35iNp6jXE",
+          "createdAt": "2026-10-28T22:53:41.000Z",
+          "url": "https://x.com/satyanadella/status/2115577773981073451",
+          "likes": 92,
+          "retweets": 6,
+          "replies": 13,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2115216581236322636",
-          "text": "Congrats to @ramkris and @ajkrish95 on raising a fat series A and closing multiple F500 companies. \n\nFinance will drive one of the next biggest waves of inference. The work is continuous, the judgment is company-specific, and every close creates feedback.\n\nMy bet is that Maximor leads the shift to post-trained open-weight models powering persistent finance agents for every CFO and CAO in the world! \n\n@ashugarg and I were lucky to partner with the company about a year ago. Thanks for letting us come along for the ride.",
-          "createdAt": "2026-10-27T22:58:26.000Z",
-          "url": "https://x.com/jayagup10/status/2115216581236322636",
-          "likes": 48,
-          "retweets": 4,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2115080058260136204"
+          "id": "2115577772349518171",
+          "text": "4/ When it comes to infrastructure, we have a fungible fleet that allows us to dynamically allocate capacity to the highest value opportunities across compute, data, Foundry, and Copilot.\n\nWe are bringing capacity online faster, and getting more from the infrastructure we already have.\n\nAzure growth was broad-based across enterprise and SMB, spanning both core cloud services and AI infra.\n\nI have never been more confident in the opportunity ahead of us.",
+          "createdAt": "2026-10-28T22:53:41.000Z",
+          "url": "https://x.com/satyanadella/status/2115577772349518171",
+          "likes": 137,
+          "retweets": 8,
+          "replies": 6,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2115577770533368135",
+          "text": "3/ We’re also helping customers secure and govern their agents at scale.\n\nOver 50M agents are now in A365, up 30% QoQ.\n\nWe are bringing together Windows + Agent 365 so agents can work within secure boundaries on-device using MXC.\n\nAgents like OpenAI Codex, Anthropic Claude Code, and Meta Muse are all adopting it.\n\nAnd with Perception, we’re separating intelligence from authority, enforcing identity, permissions, monitoring and containment outside the model itself.\n\nWe’re encouraged by the feedback from preview customers.",
+          "createdAt": "2026-10-28T22:53:40.000Z",
+          "url": "https://x.com/satyanadella/status/2115577770533368135",
+          "likes": 113,
+          "retweets": 8,
+          "replies": 7,
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 2,
+    "totalTweets": 4
   }
 }
