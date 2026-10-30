@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T07:00:18.124Z",
+  "generatedAt": "2026-10-30T07:00:15.382Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,62 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2115505505955352727",
-          "text": "Wow @nikesharora at Stanford!!\n\nRumor is @BhathalTanvir0 going to put some AP Dhillon for the walk up song https://t.co/dPTVDNDZdM",
-          "createdAt": "2026-10-28T18:06:31.000Z",
-          "url": "https://x.com/jayagup10/status/2115505505955352727",
-          "likes": 83,
-          "retweets": 2,
-          "replies": 3,
+          "id": "2116044338853765229",
+          "text": "This is so well said - everyone is literally getting a dopamine hit from running agents and not thinking anymore\n\nIt’s like TikTok for nerds https://t.co/o6WBD5vbWw",
+          "createdAt": "2026-10-30T05:47:39.000Z",
+          "url": "https://x.com/jayagup10/status/2116044338853765229",
+          "likes": 24,
+          "retweets": 1,
+          "replies": 5,
           "isQuote": true,
-          "quotedTweetId": "2115497664947298466"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2115577773981073451",
-          "text": "5/ Read more about our results here: https://t.co/g35iNp6jXE",
-          "createdAt": "2026-10-28T22:53:41.000Z",
-          "url": "https://x.com/satyanadella/status/2115577773981073451",
-          "likes": 92,
-          "retweets": 6,
-          "replies": 13,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2115937378674372783"
         },
         {
-          "id": "2115577772349518171",
-          "text": "4/ When it comes to infrastructure, we have a fungible fleet that allows us to dynamically allocate capacity to the highest value opportunities across compute, data, Foundry, and Copilot.\n\nWe are bringing capacity online faster, and getting more from the infrastructure we already have.\n\nAzure growth was broad-based across enterprise and SMB, spanning both core cloud services and AI infra.\n\nI have never been more confident in the opportunity ahead of us.",
-          "createdAt": "2026-10-28T22:53:41.000Z",
-          "url": "https://x.com/satyanadella/status/2115577772349518171",
-          "likes": 137,
-          "retweets": 8,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2115577770533368135",
-          "text": "3/ We’re also helping customers secure and govern their agents at scale.\n\nOver 50M agents are now in A365, up 30% QoQ.\n\nWe are bringing together Windows + Agent 365 so agents can work within secure boundaries on-device using MXC.\n\nAgents like OpenAI Codex, Anthropic Claude Code, and Meta Muse are all adopting it.\n\nAnd with Perception, we’re separating intelligence from authority, enforcing identity, permissions, monitoring and containment outside the model itself.\n\nWe’re encouraged by the feedback from preview customers.",
-          "createdAt": "2026-10-28T22:53:40.000Z",
-          "url": "https://x.com/satyanadella/status/2115577770533368135",
-          "likes": 113,
-          "retweets": 8,
-          "replies": 7,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2115857469612437957",
+          "text": "And… Head of Context Graph is officially a title \n\nCongrats @winstonweinberg and the Aida team :-) https://t.co/ybDNvbT593 https://t.co/phqi3A5gvx",
+          "createdAt": "2026-10-29T17:25:06.000Z",
+          "url": "https://x.com/jayagup10/status/2115857469612437957",
+          "likes": 285,
+          "retweets": 13,
+          "replies": 20,
+          "isQuote": true,
+          "quotedTweetId": "2003525933534179480"
         }
       ]
     }
   ],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 1,
+    "totalTweets": 2
   }
 }
