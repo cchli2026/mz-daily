@@ -1,40 +1,9 @@
 {
-  "generatedAt": "2026-10-30T07:00:15.382Z",
+  "generatedAt": "2026-10-31T07:00:15.491Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2116044338853765229",
-          "text": "This is so well said - everyone is literally getting a dopamine hit from running agents and not thinking anymore\n\nIt’s like TikTok for nerds https://t.co/o6WBD5vbWw",
-          "createdAt": "2026-10-30T05:47:39.000Z",
-          "url": "https://x.com/jayagup10/status/2116044338853765229",
-          "likes": 24,
-          "retweets": 1,
-          "replies": 5,
-          "isQuote": true,
-          "quotedTweetId": "2115937378674372783"
-        },
-        {
-          "id": "2115857469612437957",
-          "text": "And… Head of Context Graph is officially a title \n\nCongrats @winstonweinberg and the Aida team :-) https://t.co/ybDNvbT593 https://t.co/phqi3A5gvx",
-          "createdAt": "2026-10-29T17:25:06.000Z",
-          "url": "https://x.com/jayagup10/status/2115857469612437957",
-          "likes": 285,
-          "retweets": 13,
-          "replies": 20,
-          "isQuote": true,
-          "quotedTweetId": "2003525933534179480"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 2
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
