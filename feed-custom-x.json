@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-11-03T07:00:15.868Z",
+  "generatedAt": "2026-11-04T07:00:17.575Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2117497089802530985",
-          "text": "It’s clear from multiple CIO and F500 CEO conversations in the past few weeks, there is no better platform for post training than Applied Compute.\n\nIn a space that has attracted a lot of research and vibes, Yash and team have put their head down and attracted world class research, engineering, inference and most importantly, turned that into real revenue. \n\nOnwards 🔥🔥🔥",
-          "createdAt": "2026-11-03T06:00:22.000Z",
-          "url": "https://x.com/jayagup10/status/2117497089802530985",
-          "likes": 26,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": true,
-          "quotedTweetId": "2117305151627411557"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 1,
-    "totalTweets": 1
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
