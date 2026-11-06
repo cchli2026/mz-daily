@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T07:00:19.451Z",
+  "generatedAt": "2026-11-06T07:00:17.911Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,26 +9,26 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2118234091493716357",
-          "text": "If you are in that kind of environment, leave. The comparative advantage of being young is not that you are smarter or more talented, but that you can still think clearly, without a filter, because no one has taught you not to yet.\n\nThat is your asset! https://t.co/wQ5HY9gmIV",
-          "createdAt": "2026-11-05T06:48:56.000Z",
-          "url": "https://x.com/jayagup10/status/2118234091493716357",
-          "likes": 3,
-          "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2047508230813917600"
+          "id": "2118583697641537568",
+          "text": "Never thought I’d see @arrahman and state space models being discussed in one convo\n\nTruly what a mashup, great stuff @krandiash https://t.co/h2INZ0kcuU",
+          "createdAt": "2026-11-06T05:58:09.000Z",
+          "url": "https://x.com/jayagup10/status/2118583697641537568",
+          "likes": 10,
+          "retweets": 1,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
         },
         {
-          "id": "2118225139603325386",
-          "text": "How do you learn to navigate all your context?\n\nSee below! https://t.co/omRfTxyAFj",
-          "createdAt": "2026-11-05T06:13:22.000Z",
-          "url": "https://x.com/jayagup10/status/2118225139603325386",
-          "likes": 8,
-          "retweets": 0,
-          "replies": 0,
+          "id": "2118383022890500604",
+          "text": "Cool stuff and congrats @Avanika15 @JonSaadFalcon \n\nWould be cool to see the local and edge deployment version of this too https://t.co/FovguJLeem",
+          "createdAt": "2026-11-05T16:40:44.000Z",
+          "url": "https://x.com/jayagup10/status/2118383022890500604",
+          "likes": 5,
+          "retweets": 2,
+          "replies": 1,
           "isQuote": true,
-          "quotedTweetId": "2118123540616716631"
+          "quotedTweetId": "2118079242340814896"
         }
       ]
     }
