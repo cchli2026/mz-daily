@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:00:17.911Z",
+  "generatedAt": "2026-11-07T07:00:18.727Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2118583697641537568",
-          "text": "Never thought I’d see @arrahman and state space models being discussed in one convo\n\nTruly what a mashup, great stuff @krandiash https://t.co/h2INZ0kcuU",
-          "createdAt": "2026-11-06T05:58:09.000Z",
-          "url": "https://x.com/jayagup10/status/2118583697641537568",
-          "likes": 10,
-          "retweets": 1,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2118383022890500604",
-          "text": "Cool stuff and congrats @Avanika15 @JonSaadFalcon \n\nWould be cool to see the local and edge deployment version of this too https://t.co/FovguJLeem",
-          "createdAt": "2026-11-05T16:40:44.000Z",
-          "url": "https://x.com/jayagup10/status/2118383022890500604",
-          "likes": 5,
-          "retweets": 2,
-          "replies": 1,
+          "id": "2118757569225506965",
+          "text": "cute. https://t.co/4XATng6Cp6",
+          "createdAt": "2026-11-06T17:29:03.000Z",
+          "url": "https://x.com/jayagup10/status/2118757569225506965",
+          "likes": 34,
+          "retweets": 0,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2118079242340814896"
+          "quotedTweetId": "2118736603820761499"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
