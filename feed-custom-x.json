@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:00:18.973Z",
+  "generatedAt": "2026-11-09T07:00:21.533Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,15 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2119098019652247871",
-          "text": "“The central proposal: place reusable inference state wherever storage, delivery, and recomputation together best meet the workload’s cost and latency needs.” https://t.co/pV6PaBXqbB",
-          "createdAt": "2026-11-07T16:01:53.000Z",
-          "url": "https://x.com/jayagup10/status/2119098019652247871",
-          "likes": 12,
-          "retweets": 0,
-          "replies": 1,
+          "id": "2119672828677206431",
+          "text": "Wow https://t.co/YW2pPLZJEt",
+          "createdAt": "2026-11-09T06:05:58.000Z",
+          "url": "https://x.com/jayagup10/status/2119672828677206431",
+          "likes": 7,
+          "retweets": 1,
+          "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2115213652680921565"
+          "quotedTweetId": "2054623784452120917"
         }
       ]
     }
