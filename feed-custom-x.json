@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T07:00:21.533Z",
+  "generatedAt": "2026-11-10T07:00:18.440Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2119672828677206431",
-          "text": "Wow https://t.co/YW2pPLZJEt",
-          "createdAt": "2026-11-09T06:05:58.000Z",
-          "url": "https://x.com/jayagup10/status/2119672828677206431",
-          "likes": 7,
-          "retweets": 1,
+          "id": "2120001709498069324",
+          "text": "Makes more sense today in light of the new Anthropic blog too https://t.co/a2ber08TIX https://t.co/u07uxFLoEO",
+          "createdAt": "2026-11-10T03:52:49.000Z",
+          "url": "https://x.com/jayagup10/status/2120001709498069324",
+          "likes": 135,
+          "retweets": 10,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2111223952609870085"
+        },
+        {
+          "id": "2119819260713480422",
+          "text": "😉 https://t.co/boPaZL04Pb",
+          "createdAt": "2026-11-09T15:47:50.000Z",
+          "url": "https://x.com/jayagup10/status/2119819260713480422",
+          "likes": 21,
+          "retweets": 0,
           "replies": 2,
           "isQuote": true,
-          "quotedTweetId": "2054623784452120917"
+          "quotedTweetId": "2119184059590942765"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
