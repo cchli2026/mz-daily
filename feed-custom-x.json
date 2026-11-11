@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:00:18.440Z",
+  "generatedAt": "2026-11-11T07:00:19.876Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,32 +9,21 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2120001709498069324",
-          "text": "Makes more sense today in light of the new Anthropic blog too https://t.co/a2ber08TIX https://t.co/u07uxFLoEO",
-          "createdAt": "2026-11-10T03:52:49.000Z",
-          "url": "https://x.com/jayagup10/status/2120001709498069324",
-          "likes": 135,
-          "retweets": 10,
-          "replies": 4,
+          "id": "2120198035141763366",
+          "text": "Few people understand insurance better and have moved as fast as @ManglaArjun and @sambhav_anand \n\nCongrats on signing yet another 7 figure deal and continuing to execute breathtakingly https://t.co/tpnwZxCDZI",
+          "createdAt": "2026-11-10T16:52:57.000Z",
+          "url": "https://x.com/jayagup10/status/2120198035141763366",
+          "likes": 33,
+          "retweets": 7,
+          "replies": 3,
           "isQuote": true,
-          "quotedTweetId": "2111223952609870085"
-        },
-        {
-          "id": "2119819260713480422",
-          "text": "😉 https://t.co/boPaZL04Pb",
-          "createdAt": "2026-11-09T15:47:50.000Z",
-          "url": "https://x.com/jayagup10/status/2119819260713480422",
-          "likes": 21,
-          "retweets": 0,
-          "replies": 2,
-          "isQuote": true,
-          "quotedTweetId": "2119184059590942765"
+          "quotedTweetId": "2107521163282845954"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 2
+    "totalTweets": 1
   }
 }
