@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T07:00:19.876Z",
+  "generatedAt": "2026-11-12T07:00:18.010Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,15 +9,15 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2120198035141763366",
-          "text": "Few people understand insurance better and have moved as fast as @ManglaArjun and @sambhav_anand \n\nCongrats on signing yet another 7 figure deal and continuing to execute breathtakingly https://t.co/tpnwZxCDZI",
-          "createdAt": "2026-11-10T16:52:57.000Z",
-          "url": "https://x.com/jayagup10/status/2120198035141763366",
-          "likes": 33,
-          "retweets": 7,
+          "id": "2120710627564175632",
+          "text": "New NVDA CEO job description:\n\n- Must have personally survived at least one (ideally two) honeypot\n- Bonus points if you don’t speak Chinese (or at least pretend you don’t)\n- Scary enough that Xi looks at your LinkedIn and decides it’s not worth it\n- Primary loyalty is America > China market size",
+          "createdAt": "2026-11-12T02:49:49.000Z",
+          "url": "https://x.com/jayagup10/status/2120710627564175632",
+          "likes": 28,
+          "retweets": 0,
           "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2107521163282845954"
+          "isQuote": false,
+          "quotedTweetId": null
         }
       ]
     }
