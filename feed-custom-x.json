@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T07:00:18.010Z",
+  "generatedAt": "2026-11-13T07:00:18.248Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,21 +9,32 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2120710627564175632",
-          "text": "New NVDA CEO job description:\n\n- Must have personally survived at least one (ideally two) honeypot\n- Bonus points if you don’t speak Chinese (or at least pretend you don’t)\n- Scary enough that Xi looks at your LinkedIn and decides it’s not worth it\n- Primary loyalty is America > China market size",
-          "createdAt": "2026-11-12T02:49:49.000Z",
-          "url": "https://x.com/jayagup10/status/2120710627564175632",
-          "likes": 28,
-          "retweets": 0,
-          "replies": 3,
-          "isQuote": false,
-          "quotedTweetId": null
+          "id": "2120884761397006338",
+          "text": "not great for Neolabs or open weight ecosystem \n\nGreat for Anthropic and OpenAI\n\nIt does give an opening to other large companies to own more of the open weight ecosystem https://t.co/p5hpqrGLJ3",
+          "createdAt": "2026-11-12T14:21:45.000Z",
+          "url": "https://x.com/jayagup10/status/2120884761397006338",
+          "likes": 40,
+          "retweets": 1,
+          "replies": 5,
+          "isQuote": true,
+          "quotedTweetId": "2120878484658536899"
+        },
+        {
+          "id": "2120774851812299037",
+          "text": "Codex and Claude Code are products for people who already know how to work with agents…..\n\nIf you try Grok Bot, it is closer to a product for people who don’t. \n\nBy removing the requirement that the user understand sessions, tools, or configuration, it can address a population that other agent products structurally cannot reach… including first-time users outside traditional tech markets.\n\nThere is a massive interface unlock here",
+          "createdAt": "2026-11-12T07:05:01.000Z",
+          "url": "https://x.com/jayagup10/status/2120774851812299037",
+          "likes": 80,
+          "retweets": 3,
+          "replies": 32,
+          "isQuote": true,
+          "quotedTweetId": "2120582957782200586"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 1,
-    "totalTweets": 1
+    "totalTweets": 2
   }
 }
