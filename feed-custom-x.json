@@ -1,9 +1,92 @@
 {
-  "generatedAt": "2026-11-16T07:03:00.060Z",
+  "generatedAt": "2026-11-18T07:03:22.251Z",
   "lookbackHours": 24,
-  "x": [],
+  "x": [
+    {
+      "source": "x",
+      "name": "Jay Gupta",
+      "handle": "jayagup10",
+      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
+      "tweets": [
+        {
+          "id": "2122737605888577973",
+          "text": "Coase said firms exist because some work is cheaper to make than to buy. Agents now make that call on every task. Your company's boundary used to be a yearly decision. Now your agent redraws it every time it runs https://t.co/VJehxZ0KS2",
+          "createdAt": "2026-11-17T17:04:18.000Z",
+          "url": "https://x.com/jayagup10/status/2122737605888577973",
+          "likes": 10,
+          "retweets": 0,
+          "replies": 1,
+          "isQuote": true,
+          "quotedTweetId": "2122540455351177454"
+        },
+        {
+          "id": "2122736191032459745",
+          "text": "Podcast tomorrow with @jeffzwang about the future of search - what should I ask?!",
+          "createdAt": "2026-11-17T16:58:41.000Z",
+          "url": "https://x.com/jayagup10/status/2122736191032459745",
+          "likes": 17,
+          "retweets": 0,
+          "replies": 8,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2122712987190583548",
+          "text": "Massive shoutout to @AlexKrentsel for reviewing multiple versions of this :-)\n\nAnd @vral hehe",
+          "createdAt": "2026-11-17T15:26:28.000Z",
+          "url": "https://x.com/jayagup10/status/2122712987190583548",
+          "likes": 3,
+          "retweets": 0,
+          "replies": 0,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    },
+    {
+      "source": "x",
+      "name": "Satya Nadella",
+      "handle": "satyanadella",
+      "bio": "Chairman and CEO at Microsoft",
+      "tweets": [
+        {
+          "id": "2122874904903397495",
+          "text": "Highlights from my opening of the Ignite keynote this morning on how we’re building a frontier ecosystem to turn advances in AI into real-world impact. https://t.co/gKMGGeWeYd",
+          "createdAt": "2026-11-18T02:09:53.000Z",
+          "url": "https://x.com/satyanadella/status/2122874904903397495",
+          "likes": 589,
+          "retweets": 83,
+          "replies": 89,
+          "isQuote": false,
+          "quotedTweetId": null
+        },
+        {
+          "id": "2122800683867082960",
+          "text": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility! https://t.co/zk7RnZ5YEy",
+          "createdAt": "2026-11-17T21:14:57.000Z",
+          "url": "https://x.com/satyanadella/status/2122800683867082960",
+          "likes": 1452,
+          "retweets": 69,
+          "replies": 59,
+          "isQuote": true,
+          "quotedTweetId": "2122757701591855362"
+        },
+        {
+          "id": "2122793055740985797",
+          "text": "This is the promise of the frontier ecosystem. Read more: https://t.co/u6ywz18tux",
+          "createdAt": "2026-11-17T20:44:38.000Z",
+          "url": "https://x.com/satyanadella/status/2122793055740985797",
+          "likes": 185,
+          "retweets": 15,
+          "replies": 10,
+          "isQuote": false,
+          "quotedTweetId": null
+        }
+      ]
+    }
+  ],
   "stats": {
-    "xBuilders": 0,
-    "totalTweets": 0
+    "xBuilders": 2,
+    "totalTweets": 6
   }
 }
