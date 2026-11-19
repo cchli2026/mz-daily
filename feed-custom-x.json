@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T07:03:22.251Z",
+  "generatedAt": "2026-11-19T07:01:10.627Z",
   "lookbackHours": 24,
   "x": [
     {
@@ -9,37 +9,37 @@
       "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
       "tweets": [
         {
-          "id": "2122737605888577973",
-          "text": "Coase said firms exist because some work is cheaper to make than to buy. Agents now make that call on every task. Your company's boundary used to be a yearly decision. Now your agent redraws it every time it runs https://t.co/VJehxZ0KS2",
-          "createdAt": "2026-11-17T17:04:18.000Z",
-          "url": "https://x.com/jayagup10/status/2122737605888577973",
-          "likes": 10,
+          "id": "2123242029140631992",
+          "text": "Are search APIs or inference more sticky?",
+          "createdAt": "2026-11-19T02:28:42.000Z",
+          "url": "https://x.com/jayagup10/status/2123242029140631992",
+          "likes": 16,
           "retweets": 0,
-          "replies": 1,
-          "isQuote": true,
-          "quotedTweetId": "2122540455351177454"
-        },
-        {
-          "id": "2122736191032459745",
-          "text": "Podcast tomorrow with @jeffzwang about the future of search - what should I ask?!",
-          "createdAt": "2026-11-17T16:58:41.000Z",
-          "url": "https://x.com/jayagup10/status/2122736191032459745",
-          "likes": 17,
-          "retweets": 0,
-          "replies": 8,
+          "replies": 9,
           "isQuote": false,
           "quotedTweetId": null
         },
         {
-          "id": "2122712987190583548",
-          "text": "Massive shoutout to @AlexKrentsel for reviewing multiple versions of this :-)\n\nAnd @vral hehe",
-          "createdAt": "2026-11-17T15:26:28.000Z",
-          "url": "https://x.com/jayagup10/status/2122712987190583548",
-          "likes": 3,
+          "id": "2123191625359003925",
+          "text": "And yes this means PANW is now a sexy AI company",
+          "createdAt": "2026-11-18T23:08:25.000Z",
+          "url": "https://x.com/jayagup10/status/2123191625359003925",
+          "likes": 6,
           "retweets": 0,
           "replies": 0,
           "isQuote": false,
           "quotedTweetId": null
+        },
+        {
+          "id": "2123190298239205734",
+          "text": "Massive congrats to @ypatil125 @rhythmrg and @lindensli and to PANW for buying one of the most legendary teams in AI. Open weights meet security. \n\nIt was all foreshadowed by this cricket jersey I gifted you that you hung up in your office late night :) https://t.co/hJrY4Ry66V https://t.co/Lh8cVGAbyp",
+          "createdAt": "2026-11-18T23:03:08.000Z",
+          "url": "https://x.com/jayagup10/status/2123190298239205734",
+          "likes": 66,
+          "retweets": 3,
+          "replies": 4,
+          "isQuote": true,
+          "quotedTweetId": "2123175975093784902"
         }
       ]
     },
@@ -50,43 +50,21 @@
       "bio": "Chairman and CEO at Microsoft",
       "tweets": [
         {
-          "id": "2122874904903397495",
-          "text": "Highlights from my opening of the Ignite keynote this morning on how we’re building a frontier ecosystem to turn advances in AI into real-world impact. https://t.co/gKMGGeWeYd",
-          "createdAt": "2026-11-18T02:09:53.000Z",
-          "url": "https://x.com/satyanadella/status/2122874904903397495",
-          "likes": 589,
-          "retweets": 83,
-          "replies": 89,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2122800683867082960",
-          "text": "With Meta’s latest models coming to Foundry, we’re giving developers and enterprises even more choice and flexibility! https://t.co/zk7RnZ5YEy",
-          "createdAt": "2026-11-17T21:14:57.000Z",
-          "url": "https://x.com/satyanadella/status/2122800683867082960",
-          "likes": 1452,
-          "retweets": 69,
-          "replies": 59,
+          "id": "2123119560803176533",
+          "text": "Bringing Salesforce to Copilot as we build Copilot as the OS for work! https://t.co/L92ic6cheu",
+          "createdAt": "2026-11-18T18:22:03.000Z",
+          "url": "https://x.com/satyanadella/status/2123119560803176533",
+          "likes": 1268,
+          "retweets": 80,
+          "replies": 96,
           "isQuote": true,
-          "quotedTweetId": "2122757701591855362"
-        },
-        {
-          "id": "2122793055740985797",
-          "text": "This is the promise of the frontier ecosystem. Read more: https://t.co/u6ywz18tux",
-          "createdAt": "2026-11-17T20:44:38.000Z",
-          "url": "https://x.com/satyanadella/status/2122793055740985797",
-          "likes": 185,
-          "retweets": 15,
-          "replies": 10,
-          "isQuote": false,
-          "quotedTweetId": null
+          "quotedTweetId": "2122798862641291665"
         }
       ]
     }
   ],
   "stats": {
     "xBuilders": 2,
-    "totalTweets": 6
+    "totalTweets": 4
   }
 }
