@@ -1,70 +1,9 @@
 {
-  "generatedAt": "2026-11-19T07:01:10.627Z",
+  "generatedAt": "2026-11-23T07:02:55.303Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2123242029140631992",
-          "text": "Are search APIs or inference more sticky?",
-          "createdAt": "2026-11-19T02:28:42.000Z",
-          "url": "https://x.com/jayagup10/status/2123242029140631992",
-          "likes": 16,
-          "retweets": 0,
-          "replies": 9,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2123191625359003925",
-          "text": "And yes this means PANW is now a sexy AI company",
-          "createdAt": "2026-11-18T23:08:25.000Z",
-          "url": "https://x.com/jayagup10/status/2123191625359003925",
-          "likes": 6,
-          "retweets": 0,
-          "replies": 0,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2123190298239205734",
-          "text": "Massive congrats to @ypatil125 @rhythmrg and @lindensli and to PANW for buying one of the most legendary teams in AI. Open weights meet security. \n\nIt was all foreshadowed by this cricket jersey I gifted you that you hung up in your office late night :) https://t.co/hJrY4Ry66V https://t.co/Lh8cVGAbyp",
-          "createdAt": "2026-11-18T23:03:08.000Z",
-          "url": "https://x.com/jayagup10/status/2123190298239205734",
-          "likes": 66,
-          "retweets": 3,
-          "replies": 4,
-          "isQuote": true,
-          "quotedTweetId": "2123175975093784902"
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2123119560803176533",
-          "text": "Bringing Salesforce to Copilot as we build Copilot as the OS for work! https://t.co/L92ic6cheu",
-          "createdAt": "2026-11-18T18:22:03.000Z",
-          "url": "https://x.com/satyanadella/status/2123119560803176533",
-          "likes": 1268,
-          "retweets": 80,
-          "replies": 96,
-          "isQuote": true,
-          "quotedTweetId": "2122798862641291665"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
