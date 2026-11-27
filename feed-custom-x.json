@@ -1,70 +1,9 @@
 {
-  "generatedAt": "2026-11-24T07:01:38.490Z",
+  "generatedAt": "2026-11-27T07:00:26.651Z",
   "lookbackHours": 24,
-  "x": [
-    {
-      "source": "x",
-      "name": "Jay Gupta",
-      "handle": "jayagup10",
-      "bio": "tweets about AI and other fun stuff. currently @foundationcap; wrote the context graph paper.\n\npreviously McKinsey, @georgiatech, @stackfolio (acquired),",
-      "tweets": [
-        {
-          "id": "2125104766753624229",
-          "text": "The AI-native application market seems to be converging into 5 different structural archetypes:\n\nBucket 1: Headless primitives (Exa, Tinyfish); You basically choose to learn into the world where UIs are disposable\n\nBucket 2: Governed harnesses / Liability shields (@harvey , @FulcrumAI , @RogoAI , @OpenEvidence)\n\n- Wrapping frontier models in workflow structure, permissions, citations, and output fidelity for high-stakes domains like legal and insurance \n-Some industries scared of using Claude / Codex too\n\nBucket 3: Context, Memory & Trigger Harness (@playerzero_ai , Hone, @useactively )\n- they treat organizational reality, relationships, memory, and state changes as a first-class engineering layer rather than treating the prompt or the single app UI as the center of gravity\n\nBucket 4: Services as Software! @DecagonAI \n- self explanatory\n\nBucket 5: Personal Persistent Runtimes (@bot, Muse)\n- Own the individual user’s persistent cloud computer, browser, and daily routines",
-          "createdAt": "2026-11-24T05:50:33.000Z",
-          "url": "https://x.com/jayagup10/status/2125104766753624229",
-          "likes": 57,
-          "retweets": 2,
-          "replies": 6,
-          "isQuote": false,
-          "quotedTweetId": null
-        },
-        {
-          "id": "2125005782144217150",
-          "text": "Wow....  @kozyraki and Mendel Rosenblum know someone doing exactly this with a fully built out product  :) \n\nLeave it the Stanford PHDs to be ahead of the curve https://t.co/DKOfClwgku",
-          "createdAt": "2026-11-23T23:17:13.000Z",
-          "url": "https://x.com/jayagup10/status/2125005782144217150",
-          "likes": 22,
-          "retweets": 2,
-          "replies": 3,
-          "isQuote": true,
-          "quotedTweetId": "2124980590717911527"
-        },
-        {
-          "id": "2124884868265873438",
-          "text": "AI's comparative advantage over people will end up being persistence not intelligence",
-          "createdAt": "2026-11-23T15:16:45.000Z",
-          "url": "https://x.com/jayagup10/status/2124884868265873438",
-          "likes": 74,
-          "retweets": 7,
-          "replies": 7,
-          "isQuote": false,
-          "quotedTweetId": null
-        }
-      ]
-    },
-    {
-      "source": "x",
-      "name": "Satya Nadella",
-      "handle": "satyanadella",
-      "bio": "Chairman and CEO at Microsoft",
-      "tweets": [
-        {
-          "id": "2125055415620866113",
-          "text": "Outcome per dollar is the frontier. We’re advancing it at every layer: FLOPs-efficient pretraining (MAI Base 2), long RL climbs (Rocket), and token-efficient models (seven new MAI models announced last week). All driving better economics for our customers.\n\nBy building models and products together, we can keep hill-climbing and building models that deliver real-world tasks and passing the gains directly to customers, while staying open to every frontier model.",
-          "createdAt": "2026-11-24T02:34:27.000Z",
-          "url": "https://x.com/satyanadella/status/2125055415620866113",
-          "likes": 1056,
-          "retweets": 98,
-          "replies": 119,
-          "isQuote": true,
-          "quotedTweetId": "2124922556922691892"
-        }
-      ]
-    }
-  ],
+  "x": [],
   "stats": {
-    "xBuilders": 2,
-    "totalTweets": 4
+    "xBuilders": 0,
+    "totalTweets": 0
   }
 }
